@@ -54,9 +54,9 @@
             </Row>
             <Row X="10" Y="60" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="133" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="60" Width="133" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="143" Y="60" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="162" Y="60" Width="19" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="152" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="60" Width="152" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="60" Width="19" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="181" Y="60" Width="19" Height="5" />
               </Cells>
             </Row>
             <Row X="10" Y="65" Width="190" Height="5" TextVAlign="Center">
