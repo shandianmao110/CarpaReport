@@ -18431,6 +18431,7 @@
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="简单委外发料单" StyleIndex="1" />
       </Styles>
+      <FontStyle />
     </TemplateInfo>
   </Templates>
 </TemplatesIndex>
