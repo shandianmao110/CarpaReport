@@ -9,65 +9,65 @@
             <Row X="10" Y="40" Width="190" Height="5" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="检验方式：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="10" Y="40" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="95" OrigHeight="5" Text="检验方式 " FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="29" Y="40" Width="95" Height="5" />
-                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="统计时间：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="124" Y="40" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="开始日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="143" Y="40" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="至" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="162" Y="40" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="结束日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="181" Y="40" Width="19" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="95" OrigHeight="5" Text="检验方式 " FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="29" Y="40" Width="95" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="统计时间：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="124" Y="40" Width="19" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="开始日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="143" Y="40" Width="19" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="至" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="162" Y="40" Width="19" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="结束日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="181" Y="40" Width="19" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="45" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="行号" DecimalDigits="0" X="10" Y="45" Width="19" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货编号" DecimalDigits="0" X="29" Y="45" Width="38" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货" DecimalDigits="0" X="67" Y="45" Width="38" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="送检量" DecimalDigits="0" X="105" Y="45" Width="19" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验货量" DecimalDigits="0" X="124" Y="45" Width="19" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" DecimalDigits="0" X="143" Y="45" Width="19" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" DecimalDigits="0" X="162" Y="45" Width="19" Height="5" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格率（%）" DecimalDigits="0" X="181" Y="45" Width="19" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="行号" DecimalDigits="0" X="10" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货编号" DecimalDigits="0" X="29" Y="45" Width="38" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货" DecimalDigits="0" X="67" Y="45" Width="38" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="送检量" DecimalDigits="0" X="105" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验货量" DecimalDigits="0" X="124" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" DecimalDigits="0" X="143" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" DecimalDigits="0" X="162" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格率（%）" DecimalDigits="0" X="181" Y="45" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="50" Width="19" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货编号" FieldKind="Detail" DecimalDigits="0" X="29" Y="50" Width="38" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="67" Y="50" Width="38" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="送检量" FieldKind="Detail" DecimalDigits="0" X="105" Y="50" Width="19" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验货量" FieldKind="Detail" DecimalDigits="0" X="124" Y="50" Width="19" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="Detail" DecimalDigits="0" X="143" Y="50" Width="19" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" FieldKind="Detail" DecimalDigits="0" X="162" Y="50" Width="19" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格率" FieldKind="Detail" DecimalDigits="0" X="181" Y="50" Width="19" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货编号" FieldKind="Detail" DecimalDigits="0" X="29" Y="50" Width="38" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="67" Y="50" Width="38" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="送检量" FieldKind="Detail" DecimalDigits="0" X="105" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验货量" FieldKind="Detail" DecimalDigits="0" X="124" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="Detail" DecimalDigits="0" X="143" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" FieldKind="Detail" DecimalDigits="0" X="162" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格率" FieldKind="Detail" DecimalDigits="0" X="181" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合计" DecimalDigits="0" X="10" Y="55" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="" DecimalDigits="0" X="29" Y="55" Width="38" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="" DecimalDigits="0" X="67" Y="55" Width="38" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验收数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="105" Y="55" Width="19" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="124" Y="55" Width="19" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="Total" DecimalDigits="0" X="143" Y="55" Width="19" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="162" Y="55" Width="19" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" DecimalDigits="0" X="181" Y="55" Width="19" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合计" DecimalDigits="0" X="10" Y="55" Width="19" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="" DecimalDigits="0" X="29" Y="55" Width="38" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="" DecimalDigits="0" X="67" Y="55" Width="38" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="验收数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="105" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="124" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="合格数量" FieldKind="Total" DecimalDigits="0" X="143" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="不合格数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="162" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" DecimalDigits="0" X="181" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="60" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="152" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="60" Width="152" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="60" Width="19" Height="5" />
-                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="181" Y="60" Width="19" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="152" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="60" Width="152" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="60" Width="19" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="181" Y="60" Width="19" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="65" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="152" OrigHeight="5" LeftLineWidth="0" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="65" Width="152" Height="5" />
-                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="65" Width="38" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="152" OrigHeight="5" LeftLineWidth="0" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="65" Width="152" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="65" Width="38" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="70" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="190" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="10" Y="70" Width="190" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="190" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="10" Y="70" Width="190" Height="5" TextVAlign="Center" />
               </Cells>
             </Row>
           </Rows>
