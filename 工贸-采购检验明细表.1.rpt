@@ -88,31 +88,31 @@
       <Elements>
         <TableElement X="10" Y="40" Width="190" Height="132.027083333333" TextVAlign="Center">
           <Rows>
-            <Row X="10" Y="40" Width="190" Height="10" TextVAlign="Center">
+            <Row X="10" Y="40" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="10" Text="检验单编号" X="10" Y="40" Width="57" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="10" Text="处理方式" X="67" Y="40" Width="19" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="10" Text="处理数量" X="86" Y="40" Width="19" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="10" Text="不合格原因" X="105" Y="40" Width="38" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="10" Text="行摘要" X="143" Y="40" Width="57" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="10" Text="检验单编号" X="10" Y="40" Width="57" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="10" Text="处理方式" X="67" Y="40" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="10" Text="处理数量" X="86" Y="40" Width="19" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="10" Text="不合格原因" X="105" Y="40" Width="38" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="10" Text="行摘要" X="143" Y="40" Width="57" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="检验单编号" FieldKind="Detail" X="10" Y="45" Width="57" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理方式" FieldKind="Detail" X="67" Y="45" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理数量" FieldKind="Detail" X="86" Y="45" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="不合格原因" FieldKind="Detail" X="105" Y="45" Width="38" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="行摘要" FieldKind="Detail" X="143" Y="45" Width="57" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="检验单编号" FieldKind="Detail" X="10" Y="50" Width="57" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理方式" FieldKind="Detail" X="67" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理数量" FieldKind="Detail" X="86" Y="50" Width="19" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="不合格原因" FieldKind="Detail" X="105" Y="50" Width="38" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="行摘要" FieldKind="Detail" X="143" Y="50" Width="57" Height="5" TextVAlign="Center" WordWrap="true" />
-              </Cells>
-            </Row>
-            <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
-              <Cells>
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="合计" X="10" Y="55" Width="57" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" X="67" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理数量" FieldKind="ToCurPageSum" X="86" Y="55" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="&#xD;" X="105" Y="55" Width="38" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="" X="143" Y="55" Width="57" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="合计" X="10" Y="50" Width="57" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" X="67" Y="50" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="处理数量" FieldKind="ToCurPageSum" X="86" Y="50" Width="19" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="&#xD;" X="105" Y="50" Width="38" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="57" OrigHeight="5" Text="" X="143" Y="50" Width="57" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="60" Width="190" Height="5" TextVAlign="Center">
