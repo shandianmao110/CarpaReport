@@ -18446,5 +18446,12 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-采购检验明细表" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="采购检验明细表" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
   </Templates>
 </TemplatesIndex>
