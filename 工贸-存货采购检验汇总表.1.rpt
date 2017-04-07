@@ -8,7 +8,7 @@
           <Rows>
             <Row X="10" Y="40" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="17.7771168496649" OrigHeight="5" Text="检验方式：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="10" Y="40" Width="17.7771168496649" Height="5" />
+                <Cell CellWidth="3.4" OrigWidth="17.7771168496649" OrigHeight="5" Text="检验方式：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="10" Y="40" Width="17.7771168496649" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
                 <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="80.7212787321822" OrigHeight="5" Text="检验方式 " FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="27.7771168496649" Y="40" Width="80.7212787321822" Height="5" />
                 <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="27.1265634891184" OrigHeight="5" Text="统计时间：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="108.498395581847" Y="40" Width="27.1265634891184" Height="5" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="26.8631987950492" OrigHeight="5" Text="开始日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" DecimalDigits="0" X="135.624959070966" Y="40" Width="26.8631987950492" Height="5" />
@@ -61,21 +61,13 @@
             </Row>
             <Row X="10" Y="65" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="43.9819039095414" OrigHeight="5" LeftLineWidth="0" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="65" Width="43.9819039095414" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="53.9819039095414" Y="65" Width="38" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="91.8068804435616" Y="65" Width="19" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="39.2413394162974" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" DecimalDigits="0" X="110.719368710572" Y="65" Width="39.2413394162974" Height="5" />
-                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="50.0392918731309" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="149.960708126869" Y="65" Width="50.0392918731309" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="152" OrigHeight="5" LeftLineWidth="0" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="65" Width="152" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="38" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="162" Y="65" Width="38" Height="5" />
               </Cells>
             </Row>
             <Row X="10" Y="70" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="43.9819039095414" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="10" Y="70" Width="43.9819039095414" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="38" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="53.9819039095414" Y="70" Width="38" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="91.8068804435616" Y="70" Width="19" Height="5" />
-                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="39.2413394162974" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="110.719368710572" Y="70" Width="39.2413394162974" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="149.960708126869" Y="70" Width="19" Height="5" />
-                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="168.873196393879" Y="70" Width="19" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="190" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="10" Y="70" Width="190" Height="5" />
               </Cells>
             </Row>
           </Rows>
