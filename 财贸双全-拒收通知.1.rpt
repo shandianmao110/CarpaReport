@@ -1,0 +1,46 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="拒收通知" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="PageHeader" X="35.1895833333333" Y="9.525" Width="135.622915204366" Height="12.6729163010915" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Center" />
+        <TableElement X="10" Y="39.8197916666667" Width="190" Height="236.657292429606" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="39.8197916666667" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="12.3520836512248" OrigHeight="5" Text="行号" DecimalDigits="0" X="10" Y="39.8197916666667" Width="12.3520836512248" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19.7604136784871" OrigHeight="5" Text="单据日期" DecimalDigits="0" X="22.3520836512248" Y="39.8197916666667" Width="19.7604136784871" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="31.931255086263" OrigHeight="5" Text="拒收通知单号" DecimalDigits="0" X="42.1124973297119" Y="39.8197916666667" Width="31.931255086263" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="26.375005086263" OrigHeight="5" Text="单位全名" DecimalDigits="0" X="74.0437524159749" Y="39.8197916666667" Width="26.375005086263" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="24.2583222707112" OrigHeight="5" Text="经办人全名" DecimalDigits="0" X="100.418757502238" Y="39.8197916666667" Width="24.2583222707112" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="75.3229202270508" OrigHeight="5" Text="摘要" DecimalDigits="0" X="124.677079772949" Y="39.8197916666667" Width="75.3229202270508" Height="5" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="44.8197916666667" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="12.3520836512248" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="44.8197916666667" Width="12.3520836512248" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="19.7604136784871" OrigHeight="5" Text="单据日期" FieldKind="Detail" DecimalDigits="0" X="22.3520836512248" Y="44.8197916666667" Width="19.7604136784871" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="31.931255086263" OrigHeight="5" Text="拒收通知单号" FieldKind="Detail" DecimalDigits="0" X="42.1124973297119" Y="44.8197916666667" Width="31.931255086263" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="26.375005086263" OrigHeight="5" Text="单位全名" FieldKind="Detail" DecimalDigits="0" X="74.0437524159749" Y="44.8197916666667" Width="26.375005086263" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.2583222707112" OrigHeight="5" Text="经办人全名" FieldKind="Detail" DecimalDigits="0" X="100.418757502238" Y="44.8197916666667" Width="24.2583222707112" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="75.3229202270508" OrigHeight="5" Text="摘要" FieldKind="Detail" DecimalDigits="0" X="124.677079772949" Y="44.8197916666667" Width="75.3229202270508" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="39.8197916666667" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportHeader" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.8197916666667" Height="236.921875" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

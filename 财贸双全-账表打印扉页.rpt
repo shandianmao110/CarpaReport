@@ -1,0 +1,20 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements />
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="251.486458333333" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="271.197916666667" Height="5.41145833333337" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,122 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="财贸双全-工资发放明细表" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="161" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="10" Y="40" Width="200" Height="237" TextVAlign="Center">
+          <Rows>
+            <Row Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="行号" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="部门编号" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="部门全名" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="职员编号" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="职员全名" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="基本工资" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="计件工资" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="餐补" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="交通补贴" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="qqq" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="wwwt" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="aaad" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="dddd" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="rrrrrr" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="etery" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="ryutu" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="fhjfh" DecimalDigits="0" X="320" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="frytruti" DecimalDigits="0" X="340" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="truty" DecimalDigits="0" X="360" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="应发合计" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="养老保险" DecimalDigits="0" X="400" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="医疗保险" DecimalDigits="0" X="420" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="个人所得税" DecimalDigits="0" X="440" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="公积金" DecimalDigits="0" X="460" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="aaa" DecimalDigits="0" X="480" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="bbbb" DecimalDigits="0" X="500" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="应扣合计" DecimalDigits="0" X="520" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="实发合计" DecimalDigits="0" X="540" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="行号" FieldKind="Detail" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="部门编号" FieldKind="Detail" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="部门全名" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="职员编号" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="职员全名" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="基本工资" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="计件工资" FieldKind="Detail" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="餐补" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="交通补贴" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="qqq" FieldKind="Detail" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="wwwt" FieldKind="Detail" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="aaad" FieldKind="Detail" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="dddd" FieldKind="Detail" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="rrrrrr" FieldKind="Detail" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="etery" FieldKind="Detail" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="ryutu" FieldKind="Detail" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="fhjfh" FieldKind="Detail" DecimalDigits="0" X="320" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="frytruti" FieldKind="Detail" DecimalDigits="0" X="340" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="truty" FieldKind="Detail" DecimalDigits="0" X="360" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="应发合计" FieldKind="Detail" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="养老保险" FieldKind="Detail" DecimalDigits="0" X="400" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="医疗保险" FieldKind="Detail" DecimalDigits="0" X="420" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="个人所得税" FieldKind="Detail" DecimalDigits="0" X="440" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="公积金" FieldKind="Detail" DecimalDigits="0" X="460" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="aaa" FieldKind="Detail" DecimalDigits="0" X="480" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="bbbb" FieldKind="Detail" DecimalDigits="0" X="500" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="应扣合计" FieldKind="Detail" DecimalDigits="0" X="520" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="实发合计" FieldKind="Detail" DecimalDigits="0" X="540" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="合计" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="320" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="340" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="360" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="400" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="420" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="440" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="460" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="480" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="500" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="520" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="540" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="20" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="40" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="277" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

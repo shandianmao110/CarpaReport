@@ -1,0 +1,59 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="生产模板维护" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" BandKind="PageHeader" X="24.1458372116089" Y="6.5875001390775" Width="147" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="10" Y="40" Width="190" Height="236.422923660278" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="40" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="行号" DecimalDigits="0" X="10" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货编号" DecimalDigits="0" X="37.1428571428571" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货全名" DecimalDigits="0" X="64.2857142857143" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货规格" DecimalDigits="0" X="91.4285714285714" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货型号" DecimalDigits="0" X="118.571428571429" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="数量" DecimalDigits="0" X="145.714285714286" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="金额拆分比例" DecimalDigits="0" X="172.857142857143" Y="40" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货编号" FieldKind="Detail" DecimalDigits="0" X="37.1428571428571" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="64.2857142857143" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货规格" FieldKind="Detail" DecimalDigits="0" X="91.4285714285714" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货型号" FieldKind="Detail" DecimalDigits="0" X="118.571428571429" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="数量" FieldKind="Detail" DecimalDigits="0" X="145.714285714286" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="金额拆分比例" FieldKind="Detail" DecimalDigits="0" X="172.857142857143" Y="45" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="合计" DecimalDigits="0" X="10" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="" DecimalDigits="0" X="37.1428571428571" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="" DecimalDigits="0" X="64.2857142857143" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="" DecimalDigits="0" X="91.4285714285714" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="" DecimalDigits="0" X="118.571428571429" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="145.714285714286" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="金额拆分比例" FieldKind="ToCurPageSum" DecimalDigits="0" X="172.857142857143" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,25 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="工贸-生产计划单" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85" Y="5" Width="80" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="170" Width="190" Height="107">
+          <Rows />
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="20" Height="150" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="170" Height="107" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

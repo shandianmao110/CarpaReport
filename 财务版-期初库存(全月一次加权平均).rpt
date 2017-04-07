@@ -1,0 +1,75 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="工贸-期初库存(全月一次加权平均)" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85" Y="5" Width="170" Height="10" FontSize="20" BoldFont="true" />
+        <TextElement Text="产品信息:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="表名:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="系统日期:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="系统时间:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="登陆日期:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="操作员:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="公司名称:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="公司地址:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="公司电话:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TextElement Text="会计年度:" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" Y="15" Width="60" Height="6" BoldFont="true" />
+        <TableElement X="10" Y="40" Width="190" Height="237">
+          <Rows>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="存货编号" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="存货全名" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="库存数量" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="成本单价" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="库存金额" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="辅助数量1" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="辅助数量2" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="副单位数量" WordWrap="true" X="160" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="存货编号" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="存货全名" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="库存数量" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="成本单价" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="库存金额" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="辅助数量1" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="辅助数量2" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="副单位数量" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="合计" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="160" Width="20" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="20" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="40" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

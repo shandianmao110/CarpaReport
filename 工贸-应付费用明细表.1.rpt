@@ -1,0 +1,83 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" BandKind="ReportHeader" X="9.59375387827555" Y="21.6687496344248" Width="191.208322397868" Height="10.000000278155" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="8.94166694482167" Y="36.3156249046326" Width="190.157291388512" Height="232.247920099894" TextVAlign="Center">
+          <Rows>
+            <Row X="8.94166694482167" Y="36.3156249046326" Width="190.157291388512" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="13.415624721845" OrigHeight="5" AccounttantLineVisble="true" Text="日期" DecimalDigits="0" X="8.94166694482167" Y="36.3156249046326" Width="13.415624721845" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="23.8125" OrigHeight="5" AccounttantLineVisble="true" Text="单据编号" DecimalDigits="0" X="22.3572916666667" Y="36.3156249046326" Width="23.8125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="11.1125" OrigHeight="5" AccounttantLineVisble="true" Text="运输费" DecimalDigits="0" X="46.1697916666667" Y="36.3156249046326" Width="11.1125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.66875" OrigHeight="5" AccounttantLineVisble="true" Text="装卸费" DecimalDigits="0" X="57.2822916666667" Y="36.3156249046326" Width="16.66875" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.3435664546253" OrigHeight="5" AccounttantLineVisble="true" Text="保险费" DecimalDigits="0" X="73.9510416666667" Y="36.3156249046326" Width="17.3435664546253" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.7876835453747" OrigHeight="5" AccounttantLineVisble="true" Text="费用合计" DecimalDigits="0" X="91.294608121292" Y="36.3156249046326" Width="16.7876835453747" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.9916666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已结算金额" DecimalDigits="0" X="108.082291666667" Y="36.3156249046326" Width="17.9916666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.4041666666667" OrigHeight="5" AccounttantLineVisble="true" Text="未结算金额" DecimalDigits="0" X="126.073958333333" Y="36.3156249046326" Width="16.4041666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="应分配金额" DecimalDigits="0" X="142.478125" Y="36.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="19.5791666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已分配金额" DecimalDigits="0" X="160.998958333333" Y="36.3156249046326" Width="19.5791666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="未分配金额" DecimalDigits="0" X="180.578125" Y="36.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="8.94166694482167" Y="41.3156249046326" Width="190.157291388512" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="13.415624721845" OrigHeight="5" AccounttantLineVisble="true" Text="日期" FieldKind="Detail" DecimalDigits="0" X="8.94166694482167" Y="41.3156249046326" Width="13.415624721845" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="23.8125" OrigHeight="5" AccounttantLineVisble="true" Text="单据编号" FieldKind="Detail" DecimalDigits="0" X="22.3572916666667" Y="41.3156249046326" Width="23.8125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="11.1125" OrigHeight="5" AccounttantLineVisble="true" Text="运输费" FieldKind="Detail" DecimalDigits="0" X="46.1697916666667" Y="41.3156249046326" Width="11.1125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.66875" OrigHeight="5" AccounttantLineVisble="true" Text="装卸费" FieldKind="Detail" DecimalDigits="0" X="57.2822916666667" Y="41.3156249046326" Width="16.66875" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.3435664546253" OrigHeight="5" AccounttantLineVisble="true" Text="保险费" FieldKind="Detail" DecimalDigits="0" X="73.9510416666667" Y="41.3156249046326" Width="17.3435664546253" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.7876835453747" OrigHeight="5" AccounttantLineVisble="true" Text="费用合计" FieldKind="Detail" DecimalDigits="0" X="91.294608121292" Y="41.3156249046326" Width="16.7876835453747" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.9916666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已结算金额" FieldKind="Detail" DecimalDigits="0" X="108.082291666667" Y="41.3156249046326" Width="17.9916666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.4041666666667" OrigHeight="5" AccounttantLineVisble="true" Text="未结算金额" FieldKind="Detail" DecimalDigits="0" X="126.073958333333" Y="41.3156249046326" Width="16.4041666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="应分配金额" FieldKind="Detail" DecimalDigits="0" X="142.478125" Y="41.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="19.5791666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已分配金额" FieldKind="Detail" DecimalDigits="0" X="160.998958333333" Y="41.3156249046326" Width="19.5791666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="未分配金额" FieldKind="Detail" DecimalDigits="0" X="180.578125" Y="41.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="8.94166694482167" Y="46.3156249046326" Width="190.157291388512" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="13.415624721845" OrigHeight="5" AccounttantLineVisble="true" Text="合计" DecimalDigits="0" X="8.94166694482167" Y="46.3156249046326" Width="13.415624721845" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="23.8125" OrigHeight="5" AccounttantLineVisble="true" Text="" DecimalDigits="0" X="22.3572916666667" Y="46.3156249046326" Width="23.8125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="11.1125" OrigHeight="5" AccounttantLineVisble="true" Text="运输费" FieldKind="ToCurPageSum" DecimalDigits="0" X="46.1697916666667" Y="46.3156249046326" Width="11.1125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.66875" OrigHeight="5" AccounttantLineVisble="true" Text="装卸费" FieldKind="ToCurPageSum" DecimalDigits="0" X="57.2822916666667" Y="46.3156249046326" Width="16.66875" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.3435664546253" OrigHeight="5" AccounttantLineVisble="true" Text="保险费" FieldKind="ToCurPageSum" DecimalDigits="0" X="73.9510416666667" Y="46.3156249046326" Width="17.3435664546253" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.7876835453747" OrigHeight="5" AccounttantLineVisble="true" Text="费用合计" FieldKind="ToCurPageSum" DecimalDigits="0" X="91.294608121292" Y="46.3156249046326" Width="16.7876835453747" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="17.9916666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已结算金额" FieldKind="ToCurPageSum" DecimalDigits="0" X="108.082291666667" Y="46.3156249046326" Width="17.9916666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="16.4041666666667" OrigHeight="5" AccounttantLineVisble="true" Text="未结算金额" FieldKind="ToCurPageSum" DecimalDigits="0" X="126.073958333333" Y="46.3156249046326" Width="16.4041666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="应分配金额" FieldKind="ToCurPageSum" DecimalDigits="0" X="142.478125" Y="46.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="19.5791666666667" OrigHeight="5" AccounttantLineVisble="true" Text="已分配金额" FieldKind="ToCurPageSum" DecimalDigits="0" X="160.998958333333" Y="46.3156249046326" Width="19.5791666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="未分配金额" FieldKind="ToCurPageSum" DecimalDigits="0" X="180.578125" Y="46.3156249046326" Width="18.5208333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="8.94166694482167" Y="51.3156249046326" Width="190.157291388511" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="171.636458055178" OrigHeight="5" AccounttantLineVisble="true" Text="打印日期：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="8.94166694482167" Y="51.3156249046326" Width="171.636458055178" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="18.5208333333333" OrigHeight="5" AccounttantLineVisble="true" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="180.578125" Y="51.3156249046326" Width="18.5208333333333" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="8.94166694482167" Y="56.3156249046326" Width="190.157291388512" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="190.157291388512" OrigHeight="5" AccounttantLineVisble="true" Text="[管家婆软件]" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="8.94166694482167" Y="56.3156249046326" Width="190.157291388512" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="PageHeader" X="183.620833333333" Y="14.5520833333333" Width="20" Height="5" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="16.271875" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="36.2479166666667" Height="240.728125" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,102 @@
+<Report ReportKind="OverprintReport">
+  <Pages>
+    <Page Background="" IsGrayBackground="true" Width="241" Height="114.3">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="凭证标题" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="PageBodyHeader" X="82.2291655858358" Y="2.76458326180776" Width="70" Height="9" FontSize="22" BoldFont="true" BackColor="" />
+        <TextElement Text="制作单位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="45.7083327611287" Y="22.7354159037272" Width="90" Height="5" BackColor="" />
+        <TextElement Text="本币名称：人民币" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="175.708335367839" Y="5.73541694482167" Width="38" Height="5" FontSize="10" BackColor="" />
+        <TextElement Text="凭证号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="175.708335367839" Y="13.4625" Width="13" Height="5" FontSize="10" BackColor="" />
+        <TextElement Text="—" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="188.708333206177" Y="13.4625" Width="3" Height="5" FontSize="10" BackColor="" />
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="191.708327738444" Y="13.4625" Width="22" Height="5" FontSize="10" BackColor="" />
+        <TextElement Text="记账" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="76.7083300908406" Y="94.735413869222" Width="28.2020838896433" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="审核" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="114.708336194356" Y="94.735413869222" Width="45.135415204366" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="制单" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="170.820826848348" Y="94.735413869222" Width="15.5020838896433" Height="5.0000001390775" BackColor="" />
+        <TableElement X="29.2947916666667" Y="29.7354175567627" Width="183.413541603088" Height="64.0000017801921">
+          <Rows>
+            <Row X="29.2947916666667" Y="29.7354175567627" Width="183.413541603088" Height="7">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="7" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="29.2947916666667" Y="29.7354175567627" Width="38.6291666666667" Height="7" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="7" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="67.9239583333334" Y="29.7354175567627" Width="92.7843749364217" Height="7" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="7" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="160.708333269755" Y="29.7354175567627" Width="26" Height="7" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="7" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="186.708333269755" Y="29.7354175567627" Width="26" Height="7" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row X="29.2947916666667" Y="36.7354175567627" Width="183.413541603088" Height="10">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="10" Text="摘要" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="29.2947916666667" Y="36.7354175567627" Width="38.6291666666667" Height="10" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="10" Text="科目" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="67.9239583333334" Y="36.7354175567627" Width="92.7843749364217" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="借方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="36.7354175567627" Width="26" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="贷方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="36.7354175567627" Width="26" Height="10" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="29.2947916666667" Y="46.7354175567627" Width="183.413541603088" Height="10">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" WordWrap="true" X="29.2947916666667" Y="46.7354175567627" Width="38.6291666666667" Height="10" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" X="67.9239583333334" Y="46.7354175567627" Width="92.7843749364217" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="46.7354175567627" Width="26" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="46.7354175567627" Width="26" Height="10" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="29.2947916666667" Y="56.7354175567627" Width="183.413541603088" Height="10">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" WordWrap="true" X="29.2947916666667" Y="56.7354175567627" Width="38.6291666666667" Height="10" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" X="67.9239583333334" Y="56.7354175567627" Width="92.7843749364217" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="56.7354175567627" Width="26" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="56.7354175567627" Width="26" Height="10" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="29.2947916666667" Y="66.7354175567627" Width="183.413541603088" Height="10">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" WordWrap="true" X="29.2947916666667" Y="66.7354175567627" Width="38.6291666666667" Height="10" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" X="67.9239583333334" Y="66.7354175567627" Width="92.7843749364217" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="66.7354175567627" Width="26" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="66.7354175567627" Width="26" Height="10" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="29.2947916666667" Y="76.7354175567627" Width="183.413541603088" Height="10">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" WordWrap="true" X="29.2947916666667" Y="76.7354175567627" Width="38.6291666666667" Height="10" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" X="67.9239583333334" Y="76.7354175567627" Width="92.7843749364217" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="76.7354175567627" Width="26" Height="10" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="10" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="76.7354175567627" Width="26" Height="10" FontSize="8" />
+              </Cells>
+            </Row>
+            <Row X="29.2947916666667" Y="86.7354175567627" Width="183.413541603088" Height="7">
+              <Cells>
+                <Cell OrigWidth="38.6291666666667" OrigHeight="7" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="29.2947916666667" Y="86.7354175567627" Width="38.6291666666667" Height="7" FontSize="8" />
+                <Cell OrigWidth="92.7843749364217" OrigHeight="7" Text="借方金额" FieldKind="Total" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="MoneyToUpper" X="67.9239583333334" Y="86.7354175567627" Width="92.7843749364217" Height="7" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="7" Text="借方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" TextFormat="AccountFormat" X="160.708333269755" Y="86.7354175567627" Width="26" Height="7" FontSize="8" />
+                <Cell OrigWidth="26" OrigHeight="7" Text="贷方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" TextFormat="AccountFormat" X="186.708333269755" Y="86.7354175567627" Width="26" Height="7" FontSize="8" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="录单日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" TextFormat="DateToChn" BandKind="PageBodyHeader" X="82.2291655858358" Y="13.7354161580404" Width="70" Height="5" FontSize="10" BackColor="" />
+        <TextElement Text="核算单位：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="28.1791661262512" Y="22.7354159037272" Width="15.5291665792465" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="财务主管：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="28.7083327929179" Y="94.735413869222" Width="15" Height="5" BackColor="" />
+        <TextElement Text="记账：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="67.7083303451538" Y="94.735413869222" Width="9.32291688919067" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="复核：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="105.708336448669" Y="94.735413869222" Width="8.52916688919067" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="制单：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="160.497910435994" Y="94.735413869222" Width="9.05833355585734" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="经办人：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="187.412498219808" Y="94.735413869222" Width="13.0583336671193" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="会计主管" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="43.9249992688497" Y="94.735413869222" Width="23.96875055631" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="经办人" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="200.643748092651" Y="94.735413869222" Width="16.5604172229767" Height="5.0000001390775" BackColor="" />
+        <TextElement Text="附单据数" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="28.7083327929179" Y="87.9000035603841" Width="13.3854172229767" Height="5.0000001390775" FontSize="8" BackColor="" />
+        <TextElement Text="附件" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="PageBodyHeader" X="42.1208337148031" Y="87.9000035603841" Width="11.5333338896434" Height="5.0000001390775" FontSize="8" BackColor="" />
+        <TextElement Text="张" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="54.5916648864746" Y="87.9000035603841" Width="6.77083388964335" Height="5.0000001390775" FontSize="8" BackColor="" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" />
+        <Band IsVisible="false" BandKind="ReportHeader" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Height="114.3" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="114.3" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings PrinterName="默认打印机" PaperTypeName="自定义纸张" PaperSizeIndex="113" PageWidth="241" PageHeight="114.3" IsFixedRowCount="true" IsFixedRowHeigt="true" MaxRowCount="5" PaperBinIndex="-1" />
+  <ExpressionFields />
+</Report>

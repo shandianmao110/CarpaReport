@@ -1,0 +1,126 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="9.32917054494222" Y="21.4041663010915" Width="190.541664123535" Height="10.000000278155" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Center" />
+        <TableElement X="10" Y="40" Width="189.892708333333" Height="236.422923660278" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="40" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="21.353125" OrigHeight="5" Text="日期" X="10" Y="40" Width="21.353125" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="48.41875" OrigHeight="5" Text="单据编号" X="31.353125" Y="40" Width="48.41875" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.2833333333333" OrigHeight="5" Text="单据类型" X="79.771875" Y="40" Width="23.2833333333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="46.3020833333333" OrigHeight="5" Text="摘要" X="103.055208333333" Y="40" Width="46.3020833333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="26.4583333333333" OrigHeight="5" Text="审核级次" X="149.357291666667" Y="40" Width="26.4583333333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5" Text="已通过级次" X="175.815625" Y="40" Width="24.0770833333333" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="21.353125" OrigHeight="5" Text="日期" FieldKind="Detail" X="10" Y="45" Width="21.353125" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="48.41875" OrigHeight="5" Text="单据编号" FieldKind="Detail" X="31.353125" Y="45" Width="48.41875" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.2833333333333" OrigHeight="5" Text="单据类型" FieldKind="Detail" X="79.771875" Y="45" Width="23.2833333333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="46.3020833333333" OrigHeight="5" Text="摘要" FieldKind="Detail" X="103.055208333333" Y="45" Width="46.3020833333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="26.4583333333333" OrigHeight="5" Text="审核级次" FieldKind="Detail" X="149.357291666667" Y="45" Width="26.4583333333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5" Text="已通过级次" FieldKind="Detail" X="175.815625" Y="45" Width="24.0770833333333" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="50" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="21.353125" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="10" Y="50" Width="21.353125" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="48.41875" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="31.353125" Y="50" Width="48.41875" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.2833333333333" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="79.771875" Y="50" Width="23.2833333333333" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="30.0541666666668" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="103.055208333333" Y="50" Width="30.0541666666668" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19.84375" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="133.109375" Y="50" Width="19.84375" Height="5" />
+                <Cell TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="46.9395833333332" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="152.953125" Y="50" Width="46.9395833333332" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="21.353125" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="10" Y="55" Width="21.353125" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="48.41875" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="31.353125" Y="55" Width="48.41875" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.2833333333333" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="79.771875" Y="55" Width="23.2833333333333" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="46.3020833333333" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="103.055208333333" Y="55" Width="46.3020833333333" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="26.4583333333333" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="149.357291666667" Y="55" Width="26.4583333333333" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="175.815625" Y="55" Width="24.0770833333333" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="开始日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="29.314582602183" Y="33.8083328564962" Width="33.7583338896433" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="开始日期：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="9.32917054494222" Y="33.8083328564962" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="结束日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="87.5229199727376" Y="33.8083328564962" Width="40.9020818710327" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="结束日期：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="67.6791699727376" Y="33.8083328564962" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageHeader" X="179.870834112167" Y="13.9645828564962" Width="20" Height="5" TextHAlign="Right" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.6875" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="50.0000003814697" Width="176.404174423218" Height="226.477083714803" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="50.0000003814697" Width="176.404174423218" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="40" OrigHeight="5" Text="审核人" DecimalDigits="0" X="10" Y="50.0000003814697" Width="40" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="28.0937474568685" OrigHeight="5" Text="审核日期" DecimalDigits="0" X="50" Y="50.0000003814697" Width="28.0937474568685" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="24.3895884831746" OrigHeight="5" Text="审核级次" DecimalDigits="0" X="78.0937474568685" Y="50.0000003814697" Width="24.3895884831746" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="32.8562551498413" OrigHeight="5" Text="审核情况" DecimalDigits="0" X="102.483335940043" Y="50.0000003814697" Width="32.8562551498413" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="51.0645833333333" OrigHeight="5" Text="审核意见" DecimalDigits="0" X="135.339591089884" Y="50.0000003814697" Width="51.0645833333333" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55.0000003814697" Width="176.404174423218" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="40" OrigHeight="5" Text="审核人" FieldKind="Detail" DecimalDigits="0" X="10" Y="55.0000003814697" Width="40" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="28.0937474568685" OrigHeight="5" Text="审核日期" FieldKind="Detail" DecimalDigits="0" X="50" Y="55.0000003814697" Width="28.0937474568685" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="24.3895884831746" OrigHeight="5" Text="审核级次" FieldKind="Detail" DecimalDigits="0" X="78.0937474568685" Y="55.0000003814697" Width="24.3895884831746" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="32.8562551498413" OrigHeight="5" Text="审核情况" FieldKind="Detail" DecimalDigits="0" X="102.483335940043" Y="55.0000003814697" Width="32.8562551498413" Height="5" />
+                <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="51.0645833333333" OrigHeight="5" Text="审核意见" FieldKind="Detail" DecimalDigits="0" X="135.339591089884" Y="55.0000003814697" Width="51.0645833333333" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="60.0000003814697" Width="176.404174423218" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="40" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="60.0000003814697" Width="40" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="28.0937474568685" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="50" Y="60.0000003814697" Width="28.0937474568685" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="24.3895884831746" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="78.0937474568685" Y="60.0000003814697" Width="24.3895884831746" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="32.8562551498413" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="102.483335940043" Y="60.0000003814697" Width="32.8562551498413" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="51.0645833333333" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="135.339591089884" Y="60.0000003814697" Width="51.0645833333333" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="65.0000003814697" Width="176.404174423218" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="40" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="10" Y="65.0000003814697" Width="40" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="28.0937474568685" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="50" Y="65.0000003814697" Width="28.0937474568685" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="24.3895884831746" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="78.0937474568685" Y="65.0000003814697" Width="24.3895884831746" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="32.8562551498413" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="102.483335940043" Y="65.0000003814697" Width="32.8562551498413" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" CellWidth="3.4" OrigWidth="51.0645833333333" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="135.339591089884" Y="65.0000003814697" Width="51.0645833333333" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="30" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="49.7416666666667" Height="227" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" ContinuousPrintPages="true" />
+  <ExpressionFields />
+</Report>

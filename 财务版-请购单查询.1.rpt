@@ -1,0 +1,79 @@
+<Report IsRemoveEmptyRows="true">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="73.0937538782756" Y="26.9604163010915" Width="80" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="40" Width="189.628125" Height="236.422923660278">
+          <Rows>
+            <Row X="10" Y="40" Width="189.628125" Height="5">
+              <Cells>
+                <Cell OrigWidth="15.796875" OrigHeight="5" Text="行号" WordWrap="true" X="10" Y="40" Width="15.796875" Height="5" />
+                <Cell OrigWidth="15.3458333333333" OrigHeight="5" Text="日期" WordWrap="true" X="25.796875" Y="40" Width="15.3458333333333" Height="5" />
+                <Cell OrigWidth="21.9604166666667" OrigHeight="5" Text="单据编号" WordWrap="true" X="41.1427083333333" Y="40" Width="21.9604166666667" Height="5" />
+                <Cell OrigWidth="17.7270833333333" OrigHeight="5" Text="请购人编号" WordWrap="true" X="63.103125" Y="40" Width="17.7270833333333" Height="5" />
+                <Cell OrigWidth="19.3145833333333" OrigHeight="5" Text="请购人全名" WordWrap="true" X="80.8302083333333" Y="40" Width="19.3145833333333" Height="5" />
+                <Cell OrigWidth="22.225" OrigHeight="5" Text="经办人编号" WordWrap="true" X="100.144791666667" Y="40" Width="22.225" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="经办人全名" WordWrap="true" X="122.369791666667" Y="40" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="16.1395833333333" OrigHeight="5" Text="摘要" WordWrap="true" X="143.536458333333" Y="40" Width="16.1395833333333" Height="5" />
+                <Cell OrigWidth="39.9520833333334" OrigHeight="5" Text="预计金额" WordWrap="true" X="159.676041666667" Y="40" Width="39.9520833333334" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="189.628125" Height="5">
+              <Cells>
+                <Cell OrigWidth="15.796875" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" X="10" Y="45" Width="15.796875" Height="5" />
+                <Cell OrigWidth="15.3458333333333" OrigHeight="5" Text="日期" FieldKind="Detail" WordWrap="true" X="25.796875" Y="45" Width="15.3458333333333" Height="5" />
+                <Cell OrigWidth="21.9604166666667" OrigHeight="5" Text="单据编号" FieldKind="Detail" WordWrap="true" X="41.1427083333333" Y="45" Width="21.9604166666667" Height="5" />
+                <Cell OrigWidth="17.7270833333333" OrigHeight="5" Text="职员编号" FieldKind="Detail" WordWrap="true" X="63.103125" Y="45" Width="17.7270833333333" Height="5" />
+                <Cell OrigWidth="19.3145833333333" OrigHeight="5" Text="职员全名" FieldKind="Detail" WordWrap="true" X="80.8302083333333" Y="45" Width="19.3145833333333" Height="5" />
+                <Cell OrigWidth="22.225" OrigHeight="5" Text="职员2编号" FieldKind="Detail" WordWrap="true" X="100.144791666667" Y="45" Width="22.225" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="职员2全名" FieldKind="Detail" WordWrap="true" X="122.369791666667" Y="45" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="16.1395833333333" OrigHeight="5" Text="摘要" FieldKind="Detail" WordWrap="true" X="143.536458333333" Y="45" Width="16.1395833333333" Height="5" />
+                <Cell OrigWidth="39.9520833333334" OrigHeight="5" Text="预计金额" FieldKind="Detail" WordWrap="true" X="159.676041666667" Y="45" Width="39.9520833333334" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="50" Width="189.628125" Height="5">
+              <Cells>
+                <Cell OrigWidth="53.103125" OrigHeight="5" Text="合计" TextHAlign="Center" WordWrap="true" X="10" Y="50" Width="53.103125" Height="5" />
+                <Cell OrigWidth="17.7270833333333" OrigHeight="5" Text="" WordWrap="true" X="63.103125" Y="50" Width="17.7270833333333" Height="5" />
+                <Cell OrigWidth="19.3145833333333" OrigHeight="5" Text="" WordWrap="true" X="80.8302083333333" Y="50" Width="19.3145833333333" Height="5" />
+                <Cell OrigWidth="22.225" OrigHeight="5" Text="" WordWrap="true" X="100.144791666667" Y="50" Width="22.225" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="" WordWrap="true" X="122.369791666667" Y="50" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="16.1395833333333" OrigHeight="5" Text="" WordWrap="true" X="143.536458333333" Y="50" Width="16.1395833333333" Height="5" />
+                <Cell OrigWidth="39.9520833333334" OrigHeight="5" Text="预计金额" FieldKind="Total" WordWrap="true" X="159.676041666667" Y="50" Width="39.9520833333334" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="149.676041666667" Height="5">
+              <Cells>
+                <Cell OrigWidth="112.369791666667" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="10" Y="55" Width="112.369791666667" Height="5" TextColor="black" />
+                <Cell OrigWidth="37.30625" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" WordWrap="true" X="122.369791666667" Y="55" Width="37.30625" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="60" Width="149.676041666667" Height="5">
+              <Cells>
+                <Cell OrigWidth="149.676041666667" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="10" Y="60" Width="149.676041666667" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="65" Width="1" Height="5">
+              <Cells>
+                <Cell OrigWidth="1" OrigHeight="5" Text=" " LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="10" Y="65" Width="1" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

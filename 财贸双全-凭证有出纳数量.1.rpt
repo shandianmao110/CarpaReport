@@ -1,0 +1,65 @@
+<Report IsRemoveEmptyRows="true" ReportKind="AcountReport">
+  <Pages>
+    <Page Width="210" Height="254" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="凭证标题" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="74" Y="4.5" Width="53" Height="9" FontSize="22" BoldFont="true" BackColor="" TextHAlign="Center" TextVAlign="Center" />
+        <TextElement Text="制作单位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="38.5" Y="15.7270833333333" Width="90" Height="5" FontSize="8" BackColor="" TextVAlign="Center" />
+        <TextElement Text="录单日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="162.183333714803" Y="7.11666630109151" Width="32.7166682243347" Height="5.0000001390775" BackColor="" TextVAlign="Center" />
+        <TextElement Text="本币名称：人民币" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="151.6" Y="11.90625" Width="43.3" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="凭证号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="151.6" Y="17.7270833333333" Width="13.3854172229767" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="—" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="164.3" Y="17.7270833333333" Width="4.65416722297668" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="凭证总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="167.5" Y="17.7270833333333" Width="21" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="记账" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="44.014582602183" Y="113.564586893717" Width="20" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="审核" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="101.958336639404" Y="113.564586893717" Width="20" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="制单" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="161.341669972738" Y="113.564586893717" Width="20" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="日期：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="151.552086639404" Y="7.11666630109151" Width="9.94583388964335" Height="5.0000001390775" TextVAlign="Center" />
+        <TableElement X="18.7354156812032" Y="26.4999994754791" Width="175" Height="87.0000029246012" TextVAlign="Center">
+          <Rows>
+            <Row X="18.7354156812032" Y="26.4999994754791" Width="175" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="25" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="18.7354156812032" Y="26.4999994754791" Width="25" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="49" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="43.7354156812032" Y="26.4999994754791" Width="49" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="92.7354156812032" Y="26.4999994754791" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="20" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="119.735415681203" Y="26.4999994754791" Width="20" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="139.735415681203" Y="26.4999994754791" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="166.735415681203" Y="26.4999994754791" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="18.7354156812032" Y="39.4999994754791" Width="175" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="25" OrigHeight="13" AccounttantLineVisble="true" Text="摘要" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="18.7354156812032" Y="39.4999994754791" Width="25" Height="13" FontSize="8" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="49" OrigHeight="13" AccounttantLineVisble="true" Text="科目" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="43.7354156812032" Y="39.4999994754791" Width="49" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" Text="原币数量" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="92.7354156812032" Y="39.4999994754791" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell OrigWidth="20" OrigHeight="13" AccounttantLineVisble="true" Text="汇率单价" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="119.735415681203" Y="39.4999994754791" Width="20" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" Text="借方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="139.735415681203" Y="39.4999994754791" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" Text="贷方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="166.735415681203" Y="39.4999994754791" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="18.7354156812032" Y="52.4999994754791" Width="175" Height="9" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="9" AccounttantLineVisble="true" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="18.7354156812032" Y="52.4999994754791" Width="20" Height="9" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="101" OrigHeight="9" AccounttantLineVisble="true" Text="借方金额" FieldKind="Total" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="MoneyToUpper" X="38.7354156812032" Y="52.4999994754791" Width="101" Height="9" FontSize="8" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="9" AccounttantLineVisble="true" Text="借方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="139.735415681203" Y="52.4999994754791" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell OrigWidth="27" OrigHeight="9" AccounttantLineVisble="true" Text="贷方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="166.735415681203" Y="52.4999994754791" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="附件" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="195.737503306071" Y="49.1541702270508" Width="10.47500055631" Height="5.0000001390775" BackColor="" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportHeader" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Height="254" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="254" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings PrinterName="默认打印机" PaperTypeName="自定义纸张" PaperSizeIndex="24" PageWidth="210" PageHeight="254" IsFixedRowCount="true" IsFixedRowHeigt="true" MaxRowCount="5" PaperBinIndex="-1" AcountReportContinuPrint="true" PageRows="2" />
+  <ExpressionFields />
+</Report>

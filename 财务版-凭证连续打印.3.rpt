@@ -1,0 +1,103 @@
+<Report ReportKind="OverprintReport">
+  <Pages>
+    <Page Background="" PrinterOffsetY="48" Width="241" Height="241" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="凭证标题" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="69" Y="6.5" Width="76" Height="9" FontSize="22" BoldFont="true" BackColor="" TextHAlign="Center" TextVAlign="Center" />
+        <TextElement Text="制作单位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="46.8791677792867" Y="17.4999996741613" Width="90" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="录单日期" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="172.799998346964" Y="9.49999992847443" Width="32.7166682243347" Height="5.0000001390775" BackColor="" TextVAlign="Center" />
+        <TextElement Text="本币名称" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="172.799998346964" Y="14.9333331942558" Width="43.3" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="凭证号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="172.535415013631" Y="19.66875" Width="13.3854172229767" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="—" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="185.706251907349" Y="19.66875" Width="4.65416722297668" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="188.699996821086" Y="19.66875" Width="21" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="记账" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="45.2916677792867" Y="124.147917620341" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="审核" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="111.291664568583" Y="124.147917620341" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="制单" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="177.556248728434" Y="124.147917620341" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="会计主管" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="45.2916677792867" Y="129.354164759318" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="出纳" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="111.291664568583" Y="129.354164759318" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TextElement Text="经办人" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="177.556248728434" Y="128.61875260671" Width="35" Height="5" BackColor="" TextVAlign="Center" />
+        <TableElement X="19.7" Y="26.2062492370605" Width="201" Height="95.405206934611" BackColor="" TextVAlign="Center">
+          <Rows>
+            <Row X="19.7" Y="26.2062492370605" Width="201" Height="9" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="9" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.7" Y="26.2062492370605" Width="40" Height="9" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="9" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="59.7" Y="26.2062492370605" Width="91" Height="9" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="9" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="150.7" Y="26.2062492370605" Width="35" Height="9" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="9" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="185.7" Y="26.2062492370605" Width="35" Height="9" BackColor="" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="19.7" Y="35.2062492370605" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="凭证摘要" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.7" Y="35.2062492370605" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="科目全名" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="59.7" Y="35.2062492370605" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="借方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="150.7" Y="35.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="贷方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="185.7" Y="35.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="19.7" Y="48.2062492370605" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="19.7" Y="48.2062492370605" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="59.7" Y="48.2062492370605" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="150.7" Y="48.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineColor="black" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="185.7" Y="48.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="19.7" Y="61.2062492370605" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="19.7" Y="61.2062492370605" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="59.7" Y="61.2062492370605" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="150.7" Y="61.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="185.7" Y="61.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="19.7" Y="74.2062492370605" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="19.7" Y="74.2062492370605" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="59.7" Y="74.2062492370605" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="150.7" Y="74.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="185.7" Y="74.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="19.7" Y="87.2062492370605" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="19.7" Y="87.2062492370605" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="59.7" Y="87.2062492370605" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="150.7" Y="87.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="185.7" Y="87.2062492370605" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row IsDashRow="true" X="19.7" Y="100.206249237061" Width="201" Height="13" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="40" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="19.7" Y="100.206249237061" Width="40" Height="13" BackColor="" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="91" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" DecimalDigits="0" X="59.7" Y="100.206249237061" Width="91" Height="13" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="150.7" Y="100.206249237061" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="13" Text="" FieldKind="Detail" LeftLineVisible="false" LeftLineKind="Dash" LeftLineColor="green" TopLineVisible="false" TopLineKind="Dash" TopLineColor="green" RightLineVisible="false" RightLineKind="Dash" RightLineColor="green" BottomLineVisible="false" BottomLineKind="Dash" BottomLineColor="green" TextFormat="AccountFormat" DecimalDigits="0" X="185.7" Y="100.206249237061" Width="35" Height="13" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="19.7" Y="113.206249237061" Width="199.501041984558" Height="8.40520909627276" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22" OrigHeight="8.40520909627276" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.7" Y="113.206249237061" Width="22" Height="8.40520909627276" TextColor="black" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="107.501041984558" OrigHeight="8.40520909627276" Text="借方金额" FieldKind="Total" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="MoneyToUpper" X="41.7" Y="113.206249237061" Width="107.501041984558" Height="8.40520909627276" TextColor="black" BackColor="" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="8.40520909627276" Text="借方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="149.201041984558" Y="113.206249237061" Width="35" Height="8.40520909627276" TextColor="black" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="35" OrigHeight="8.40520909627276" Text="贷方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="184.201041984558" Y="113.206249237061" Width="35" Height="8.40520909627276" TextColor="black" BackColor="" TextHAlign="Right" TextVAlign="Center" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="附件" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="PageBodyHeader" X="223.722907511393" Y="51.0645833333333" Width="7.18541412353516" Height="5.0000001390775" BackColor="" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportHeader" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Height="241" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="240.50625" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings PrinterName="默认打印机" PaperTypeName="自定义纸张" MarginLeft="14" PageOrientation="Landscape" PaperSizeIndex="39" PageWidth="241" PageHeight="241" IsFixedRowCount="true" IsFixedRowHeigt="true" MaxRowCount="6" PaperBinIndex="-1" />
+  <ExpressionFields />
+</Report>

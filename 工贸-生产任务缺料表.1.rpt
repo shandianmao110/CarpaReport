@@ -1,0 +1,105 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" BandKind="ReportHeader" X="9.32917054494222" Y="20.3458329677582" Width="191.012501017253" Height="19.2604159355164" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Center" />
+        <TableElement X="9.921875" Y="40" Width="190" Height="236.579164123535" TextVAlign="Center">
+          <Rows>
+            <Row X="9.921875" Y="40" Width="190" Height="5.37604166666666" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5.37604166666666" Text="任务单号" DecimalDigits="0" X="9.921875" Y="40" Width="22.9028874013388" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5.37604166666666" Text="车间" DecimalDigits="0" X="32.8247624013388" Y="40" Width="15.6703966430213" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" Text="产成品编号" DecimalDigits="0" X="48.4951590443601" Y="40" Width="16.7246326223065" Height="5.37604166666666" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="17.0269909165084" OrigHeight="5" Text="产成品全名" DecimalDigits="0" X="65.2197916666666" Y="40" Width="17.0269909165084" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.0812268957938" OrigHeight="5" Text="子件编号" DecimalDigits="0" X="82.246782583175" Y="40" Width="18.0812268957938" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="14.464981516635" OrigHeight="5" Text="子件全名" DecimalDigits="0" X="100.328009478969" Y="40" Width="14.464981516635" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5.37604166666666" Text="应领数量" DecimalDigits="0" X="114.792990995604" Y="40" Width="22.9028874013388" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5.37604166666666" Text="领用数量" DecimalDigits="0" X="137.695878396943" Y="40" Width="20.250974123289" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="21.2153062243981" OrigHeight="5.37604166666666" Text="未领数量" DecimalDigits="0" X="157.946852520232" Y="40" Width="21.2153062243981" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.7597162553701" OrigHeight="5.37604166666666" Text="库存数量" DecimalDigits="0" X="179.16215874463" Y="40" Width="20.7597162553701" Height="5.37604166666666" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="9.921875" Y="45.3760416666667" Width="190" Height="5.29166666666667" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5.29166666666667" Text="任务单号" FieldKind="Detail" DecimalDigits="0" X="9.921875" Y="45.3760416666667" Width="22.9028874013388" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5.29166666666667" Text="车间全名" FieldKind="Detail" DecimalDigits="0" X="32.8247624013388" Y="45.3760416666667" Width="15.6703966430213" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" Text="产成品编号" FieldKind="Detail" DecimalDigits="0" X="48.4951590443601" Y="45.3760416666667" Width="16.7246326223065" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.0269909165084" OrigHeight="5" Text="产成品全名" FieldKind="Detail" DecimalDigits="0" X="65.2197916666666" Y="45.3760416666667" Width="17.0269909165084" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.0812268957938" OrigHeight="5" Text="子件编号" FieldKind="Detail" DecimalDigits="0" X="82.246782583175" Y="45.3760416666667" Width="18.0812268957938" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="14.464981516635" OrigHeight="5" Text="子件全名" FieldKind="Detail" DecimalDigits="0" X="100.328009478969" Y="45.3760416666667" Width="14.464981516635" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5.29166666666667" Text="应领数量" FieldKind="Detail" DecimalDigits="0" X="114.792990995604" Y="45.3760416666667" Width="22.9028874013388" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5.29166666666667" Text="领用数量" FieldKind="Detail" DecimalDigits="0" X="137.695878396943" Y="45.3760416666667" Width="20.250974123289" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="21.2153062243981" OrigHeight="5.29166666666667" Text="未领数量" FieldKind="Detail" DecimalDigits="0" X="157.946852520232" Y="45.3760416666667" Width="21.2153062243981" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.7597162553701" OrigHeight="5.29166666666667" Text="库存数量" FieldKind="Detail" DecimalDigits="0" X="179.16215874463" Y="45.3760416666667" Width="20.7597162553701" Height="5.29166666666667" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="9.921875" Y="50.6677083333333" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="合计" DecimalDigits="0" X="9.921875" Y="50.6677083333333" Width="22.9028874013388" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5" Text="" DecimalDigits="0" X="32.8247624013388" Y="50.6677083333333" Width="15.6703966430213" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" DecimalDigits="0" X="48.4951590443601" Y="50.6677083333333" Width="16.7246326223065" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="17.0269909165084" OrigHeight="5" DecimalDigits="0" X="65.2197916666666" Y="50.6677083333333" Width="17.0269909165084" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="18.0812268957938" OrigHeight="5" DecimalDigits="0" X="82.246782583175" Y="50.6677083333333" Width="18.0812268957938" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="14.464981516635" OrigHeight="5" DecimalDigits="0" X="100.328009478969" Y="50.6677083333333" Width="14.464981516635" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="应领数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="114.792990995604" Y="50.6677083333333" Width="22.9028874013388" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5" Text="领用数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="137.695878396943" Y="50.6677083333333" Width="20.250974123289" Height="5" TextColor="black" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="21.2153062243981" OrigHeight="5" Text="未领数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="157.946852520232" Y="50.6677083333333" Width="21.2153062243981" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.7597162553701" OrigHeight="5" Text="" DecimalDigits="0" X="179.16215874463" Y="50.6677083333333" Width="20.7597162553701" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="9.921875" Y="55.6677083333333" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="9.921875" Y="55.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="32.8247624013388" Y="55.6677083333333" Width="15.6703966430213" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="48.4951590443601" Y="55.6677083333333" Width="16.7246326223065" Height="5" TextVAlign="Center" />
+                <Cell RowSpan="3" CellWidth="3.4" OrigWidth="49.5731993289372" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="65.2197916666666" Y="55.6677083333333" Width="49.5731993289372" Height="15" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="114.792990995604" Y="55.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" DecimalDigits="0" X="137.695878396943" Y="55.6677083333333" Width="20.250974123289" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="7.47357378359478" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="157.946852520232" Y="55.6677083333333" Width="7.47357378359478" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.1168947946848" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="165.420426303826" Y="55.6677083333333" Width="17.1168947946848" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.3845539014887" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="182.537321098511" Y="55.6677083333333" Width="17.3845539014887" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="9.921875" Y="60.6677083333333" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" LeftLineWidth="0" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="9.921875" Y="60.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="32.8247624013388" Y="60.6677083333333" Width="15.6703966430213" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="48.4951590443601" Y="60.6677083333333" Width="16.7246326223065" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="49.5731993289372" OrigHeight="5" Text="" LeftLineVisible="false" DecimalDigits="0" X="65.2197916666666" Y="60.6677083333333" Width="49.5731993289372" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="114.792990995604" Y="60.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" DecimalDigits="0" X="137.695878396943" Y="60.6677083333333" Width="20.250974123289" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="41.9750224797682" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" RightLineWidth="0" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="157.946852520232" Y="60.6677083333333" Width="41.9750224797682" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="9.921875" Y="65.6677083333333" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="" LeftLineVisible="false" LeftLineWidth="0" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="9.921875" Y="65.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="15.6703966430213" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="32.8247624013388" Y="65.6677083333333" Width="15.6703966430213" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="16.7246326223065" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="48.4951590443601" Y="65.6677083333333" Width="16.7246326223065" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="49.5731993289372" OrigHeight="5" Text="" LeftLineVisible="false" DecimalDigits="0" X="65.2197916666666" Y="65.6677083333333" Width="49.5731993289372" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="22.9028874013388" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BottomLineWidth="0" DecimalDigits="0" X="114.792990995604" Y="65.6677083333333" Width="22.9028874013388" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="20.250974123289" OrigHeight="5" LeftLineVisible="false" TopLineVisible="false" RightLineWidth="0" BottomLineWidth="0" DecimalDigits="0" X="137.695878396943" Y="65.6677083333333" Width="20.250974123289" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="21.2153062243981" OrigHeight="5" Text="" LeftLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="157.946852520232" Y="65.6677083333333" Width="21.2153062243981" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.7597162553701" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" TopLineWidth="0" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" X="179.16215874463" Y="65.6677083333333" Width="20.7597162553701" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="PageHeader" X="170.816673024495" Y="14.5520833333333" Width="29.52500055631" Height="5.0000001390775" TextHAlign="Right" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="19.84375" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.6875" Height="237.15625" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

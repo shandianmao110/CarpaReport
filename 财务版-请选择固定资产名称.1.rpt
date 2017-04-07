@@ -1,0 +1,41 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="52.8020822525024" Y="23.5208329677582" Width="120" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="40" Width="189.892708333333" Height="236.422923660278">
+          <Rows>
+            <Row X="10" Y="40" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="67.390625" OrigHeight="5" Text="行号" TextHAlign="Center" WordWrap="true" X="10" Y="40" Width="67.390625" Height="5" BoldFont="true" />
+                <Cell OrigWidth="65.6166666666666" OrigHeight="5" Text="资产编号" TextHAlign="Center" WordWrap="true" X="77.390625" Y="40" Width="65.6166666666666" Height="5" BoldFont="true" />
+                <Cell OrigWidth="56.8854166666667" OrigHeight="5" Text="资产名称" TextHAlign="Center" WordWrap="true" X="143.007291666667" Y="40" Width="56.8854166666667" Height="5" BoldFont="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="67.390625" OrigHeight="5" Text="行号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="10" Y="45" Width="67.390625" Height="5" />
+                <Cell OrigWidth="65.6166666666666" OrigHeight="5" Text="资产编号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="77.390625" Y="45" Width="65.6166666666666" Height="5" />
+                <Cell OrigWidth="56.8854166666667" OrigHeight="5" Text="资产名称" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="143.007291666667" Y="45" Width="56.8854166666667" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" BandKind="PageHeader" X="179.597919972738" Y="14.4937495231628" Width="20" Height="5" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>
