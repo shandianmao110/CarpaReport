@@ -1,0 +1,125 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="工贸-委托成本调价单" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="133" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="10" Y="40" Width="580" Height="236.687506993612" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="40" Width="580" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" DecimalDigits="0" X="10" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货编号" DecimalDigits="0" X="30" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货全名" DecimalDigits="0" X="50" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="规格" DecimalDigits="0" X="70" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="型号" DecimalDigits="0" X="90" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="条码" DecimalDigits="0" X="110" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位" DecimalDigits="0" X="130" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="批号" DecimalDigits="0" X="150" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="调价金额" DecimalDigits="0" X="170" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="零售价" DecimalDigits="0" X="190" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行摘要" DecimalDigits="0" X="210" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项01" DecimalDigits="0" X="230" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项02" DecimalDigits="0" X="250" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项03" DecimalDigits="0" X="270" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项04" DecimalDigits="0" X="290" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项05" DecimalDigits="0" X="310" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项06" DecimalDigits="0" X="330" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项07" DecimalDigits="0" X="350" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项08" DecimalDigits="0" X="370" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项09" DecimalDigits="0" X="390" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项10" DecimalDigits="0" X="410" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项1" DecimalDigits="0" X="430" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项2" DecimalDigits="0" X="450" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项3" DecimalDigits="0" X="470" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项1" DecimalDigits="0" X="490" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项2" DecimalDigits="0" X="510" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项3" DecimalDigits="0" X="530" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期间隔" DecimalDigits="0" X="550" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="序列号" DecimalDigits="0" X="570" Y="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="580" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货编号" FieldKind="Detail" DecimalDigits="0" X="30" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="50" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="规格" FieldKind="Detail" DecimalDigits="0" X="70" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="型号" FieldKind="Detail" DecimalDigits="0" X="90" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="条码" FieldKind="Detail" DecimalDigits="0" X="110" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位" FieldKind="Detail" DecimalDigits="0" X="130" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="批号" FieldKind="Detail" DecimalDigits="0" X="150" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="调价金额" FieldKind="Detail" DecimalDigits="0" X="170" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="零售价" FieldKind="Detail" DecimalDigits="0" X="190" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行摘要" FieldKind="Detail" DecimalDigits="0" X="210" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项01" FieldKind="Detail" DecimalDigits="0" X="230" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项02" FieldKind="Detail" DecimalDigits="0" X="250" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项03" FieldKind="Detail" DecimalDigits="0" X="270" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项04" FieldKind="Detail" DecimalDigits="0" X="290" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项05" FieldKind="Detail" DecimalDigits="0" X="310" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项06" FieldKind="Detail" DecimalDigits="0" X="330" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项07" FieldKind="Detail" DecimalDigits="0" X="350" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项08" FieldKind="Detail" DecimalDigits="0" X="370" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项09" FieldKind="Detail" DecimalDigits="0" X="390" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="自由项10" FieldKind="Detail" DecimalDigits="0" X="410" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项1" FieldKind="Detail" DecimalDigits="0" X="430" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项2" FieldKind="Detail" DecimalDigits="0" X="450" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期自由项3" FieldKind="Detail" DecimalDigits="0" X="470" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项1" FieldKind="Detail" DecimalDigits="0" X="490" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项2" FieldKind="Detail" DecimalDigits="0" X="510" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="数值自由项3" FieldKind="Detail" DecimalDigits="0" X="530" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="日期间隔" FieldKind="Detail" DecimalDigits="0" X="550" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="序列号" FieldKind="Detail" DecimalDigits="0" X="570" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="50" Width="580" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="合计" DecimalDigits="0" X="10" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="30" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="50" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="70" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="90" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="110" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="130" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="150" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="170" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="190" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="210" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="230" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="250" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="270" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="290" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="310" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="330" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="350" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="370" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="390" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="410" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="430" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="450" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="470" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="490" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="510" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="530" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="550" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="570" Y="50" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>
