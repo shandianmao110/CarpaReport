@@ -1,4 +1,4 @@
-<Report ReportKind="AcountReport" IsAssociateDataSet="true">
+<Report ReportKind="AcountReport">
   <Pages>
     <Page Width="210" Height="254" TextVAlign="Center">
       <OrderFields />
@@ -17,26 +17,26 @@
           <Rows>
             <Row X="19.1749994913737" Y="23.9020829677582" Width="175" Height="13" TextVAlign="Center">
               <Cells>
-                <Cell OrigWidth="38" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="23.9020829677582" Width="38" Height="13" FontSize="8" TextVAlign="Center" />
-                <Cell OrigWidth="83" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="57.1749994913737" Y="23.9020829677582" Width="83" Height="13" FontSize="8" TextVAlign="Center" />
-                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="140.174999491374" Y="23.9020829677582" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
-                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="167.174999491374" Y="23.9020829677582" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="13" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="23.9020829677582" Width="38" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="83" OrigHeight="13" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="57.1749994913737" Y="23.9020829677582" Width="83" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="13" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="140.174999491374" Y="23.9020829677582" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="13" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="167.174999491374" Y="23.9020829677582" Width="27" Height="13" FontSize="8" TextVAlign="Center" />
               </Cells>
             </Row>
             <Row X="19.1749994913737" Y="36.9020829677582" Width="175" Height="13" TextVAlign="Center">
               <Cells>
-                <Cell OrigWidth="38" OrigHeight="13" AccounttantLineVisble="true" Text="凭证摘要" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="36.9020829677582" Width="38" Height="13" FontSize="8" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="83" OrigHeight="13" AccounttantLineVisble="true" Text="科目全名" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="57.1749994913737" Y="36.9020829677582" Width="83" Height="13" FontSize="8" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" Text="借方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="140.174999491374" Y="36.9020829677582" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
-                <Cell OrigWidth="27" OrigHeight="13" AccounttantLineVisble="true" Text="贷方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="167.174999491374" Y="36.9020829677582" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="38" OrigHeight="13" Text="凭证摘要" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="36.9020829677582" Width="38" Height="13" FontSize="8" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="83" OrigHeight="13" Text="科目全名" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="57.1749994913737" Y="36.9020829677582" Width="83" Height="13" FontSize="8" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="13" Text="借方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="140.174999491374" Y="36.9020829677582" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="13" Text="贷方金额" FieldKind="Detail" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="167.174999491374" Y="36.9020829677582" Width="27" Height="13" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
               </Cells>
             </Row>
             <Row X="19.1749994913737" Y="49.9020829677582" Width="175" Height="9" TextVAlign="Center">
               <Cells>
-                <Cell OrigWidth="22" OrigHeight="9" AccounttantLineVisble="true" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="49.9020829677582" Width="22" Height="9" FontSize="8" TextVAlign="Center" />
-                <Cell OrigWidth="99" OrigHeight="9" AccounttantLineVisble="true" Text="借方金额" FieldKind="Total" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="MoneyToUpper" X="41.1749994913737" Y="49.9020829677582" Width="99" Height="9" FontSize="8" TextVAlign="Center" />
-                <Cell OrigWidth="27" OrigHeight="9" AccounttantLineVisble="true" Text="借方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="140.174999491374" Y="49.9020829677582" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
-                <Cell OrigWidth="27" OrigHeight="9" AccounttantLineVisble="true" Text="贷方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="167.174999491374" Y="49.9020829677582" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="22" OrigHeight="9" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="19.1749994913737" Y="49.9020829677582" Width="22" Height="9" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="99" OrigHeight="9" Text="借方金额" FieldKind="Total" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="MoneyToUpper" X="41.1749994913737" Y="49.9020829677582" Width="99" Height="9" FontSize="8" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="9" Text="借方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="140.174999491374" Y="49.9020829677582" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27" OrigHeight="9" Text="贷方金额" FieldKind="ToCurPageSum" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextFormat="AccountFormat" X="167.174999491374" Y="49.9020829677582" Width="27" Height="9" FontSize="8" TextHAlign="Right" TextVAlign="Center" />
               </Cells>
             </Row>
           </Rows>
