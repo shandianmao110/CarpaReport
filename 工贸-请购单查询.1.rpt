@@ -23,13 +23,13 @@
             <Row X="10" Y="45" Width="189.363541666667" Height="5" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="15.796875" OrigHeight="5" Text="行号" FieldKind="Detail" X="10" Y="45" Width="15.796875" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="日期" FieldKind="Detail" X="25.796875" Y="45" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="单据日期" FieldKind="Detail" X="25.796875" Y="45" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.9604166666667" OrigHeight="5" Text="单据编号" FieldKind="Detail" X="41.1427083333333" Y="45" Width="21.9604166666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="请购人编号" FieldKind="Detail" X="63.103125" Y="45" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="19.3145833333333" OrigHeight="5" Text="请购人全名" FieldKind="Detail" X="80.8302083333333" Y="45" Width="19.3145833333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="经办人编号" FieldKind="Detail" X="100.144791666667" Y="45" Width="22.225" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5" Text="经办人全名" FieldKind="Detail" X="122.369791666667" Y="45" Width="21.1666666666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="16.1395833333333" OrigHeight="5" Text="摘要" FieldKind="Detail" X="143.536458333333" Y="45" Width="16.1395833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.1395833333333" OrigHeight="5" Text="单据摘要" FieldKind="Detail" X="143.536458333333" Y="45" Width="16.1395833333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="19.84375" OrigHeight="5" Text="是否完成" FieldKind="Detail" X="159.676041666667" Y="45" Width="19.84375" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="19.84375" OrigHeight="5" Text="预计金额" FieldKind="Detail" X="179.519791666667" Y="45" Width="19.84375" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
