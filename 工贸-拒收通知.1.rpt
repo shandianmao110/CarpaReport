@@ -22,7 +22,7 @@
                 <Cell CellWidth="3.4" OrigWidth="19.3012241681417" OrigHeight="5" Text="单据日期" FieldKind="Detail" DecimalDigits="0" X="21.8928941408793" Y="45" Width="19.3012241681417" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="32.5303948720296" OrigHeight="5" Text="拒收通知单号" FieldKind="Detail" DecimalDigits="0" X="41.194118309021" Y="45" Width="32.5303948720296" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="23.0053867975871" OrigHeight="5" Text="单位全名" FieldKind="Detail" DecimalDigits="0" X="73.7245131810506" Y="45" Width="23.0053867975871" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19.1459566752116" OrigHeight="5" Text="职员全名" FieldKind="Detail" DecimalDigits="0" X="96.7298999786377" Y="45" Width="19.1459566752116" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.1459566752116" OrigHeight="5" Text="经办人全名" FieldKind="Detail" DecimalDigits="0" X="96.7298999786377" Y="45" Width="19.1459566752116" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="84.1241433461509" OrigHeight="5" Text="摘要" FieldKind="Detail" DecimalDigits="0" X="115.875856653849" Y="45" Width="84.1241433461509" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
@@ -34,7 +34,7 @@
         <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
         <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
-        <Band BandKind="PageDetail" Y="39.6875" Height="237" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
         <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />

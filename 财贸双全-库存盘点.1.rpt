@@ -30,7 +30,7 @@
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="33.0924479166665" OrigHeight="10" Text="存货全名" X="38.7614583333333" Y="63.7041663169861" Width="33.0924479166665" Height="10" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="33.0924479166665" OrigHeight="10" Text="实盘数" X="71.8539062499998" Y="63.7041663169861" Width="33.0924479166665" Height="10" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="30.4075520833335" OrigHeight="10" Text="账面数" X="104.946354166666" Y="63.7041663169861" Width="30.4075520833335" Height="10" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="30.4075520833335" OrigHeight="10" Text="差异数量" X="135.35390625" Y="63.7041663169861" Width="30.4075520833335" Height="10" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="30.4075520833335" OrigHeight="10" Text="差异数" X="135.35390625" Y="63.7041663169861" Width="30.4075520833335" Height="10" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="34.1312499999995" OrigHeight="10" Text="盘点备注" X="165.761458333333" Y="63.7041663169861" Width="34.1312499999995" Height="10" />
               </Cells>
             </Row>
