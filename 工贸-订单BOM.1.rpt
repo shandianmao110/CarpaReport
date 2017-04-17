@@ -22,16 +22,16 @@
             </Row>
             <Row X="10" Y="45" Width="189.628125" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="20.2947916666667" OrigHeight="5" Text="订单BOM编号" FieldKind="Detail" X="10" Y="45" Width="20.2947916666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20.3729166666667" OrigHeight="5" Text="订单BOM名称" FieldKind="Detail" X="30.2947916666667" Y="45" Width="20.3729166666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="15.6104166666667" OrigHeight="5" Text="存货编号" FieldKind="Detail" X="50.6677083333334" Y="45" Width="15.6104166666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19.3145833333332" OrigHeight="5" Text="存货全名" FieldKind="Detail" X="66.2781250000001" Y="45" Width="19.3145833333332" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="16.6687500000001" OrigHeight="5" Text="BOM修改人" FieldKind="Detail" X="85.5927083333333" Y="45" Width="16.6687500000001" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="19.3145833333333" OrigHeight="5" Text="BOM修改日期" FieldKind="Detail" X="102.261458333333" Y="45" Width="19.3145833333333" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20.6375" OrigHeight="5" Text="客户编号" FieldKind="Detail" X="121.576041666667" Y="45" Width="20.6375" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="18.2562499999999" OrigHeight="5" Text="客户全名" FieldKind="Detail" X="142.213541666667" Y="45" Width="18.2562499999999" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="16.4041666666667" OrigHeight="5" Text="订单编号" FieldKind="Detail" X="160.469791666667" Y="45" Width="16.4041666666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="22.7541666666667" OrigHeight="5" Text="存货数量" FieldKind="Detail" X="176.873958333333" Y="45" Width="22.7541666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.2947916666667" OrigHeight="5" Text="订单BOM编号" FieldKind="Master" X="10" Y="45" Width="20.2947916666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.3729166666667" OrigHeight="5" Text="订单BOM名称" FieldKind="Master" X="30.2947916666667" Y="45" Width="20.3729166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.6104166666667" OrigHeight="5" Text="存货编号" FieldKind="Master" X="50.6677083333334" Y="45" Width="15.6104166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.3145833333332" OrigHeight="5" Text="存货全名" FieldKind="Master" X="66.2781250000001" Y="45" Width="19.3145833333332" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.6687500000001" OrigHeight="5" Text="BOM修改人" FieldKind="Master" X="85.5927083333333" Y="45" Width="16.6687500000001" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.3145833333333" OrigHeight="5" Text="BOM修改日期" FieldKind="Master" X="102.261458333333" Y="45" Width="19.3145833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.6375" OrigHeight="5" Text="客户编号" FieldKind="Master" X="121.576041666667" Y="45" Width="20.6375" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.2562499999999" OrigHeight="5" Text="客户全名" FieldKind="Master" X="142.213541666667" Y="45" Width="18.2562499999999" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.4041666666667" OrigHeight="5" Text="订单编号" FieldKind="Master" X="160.469791666667" Y="45" Width="16.4041666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.7541666666667" OrigHeight="5" Text="存货数量" FieldKind="Master" X="176.873958333333" Y="45" Width="22.7541666666667" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="50" Width="189.628125" Height="5" TextVAlign="Center">

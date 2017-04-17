@@ -42,24 +42,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-仓库进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-仓库采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-仓库进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-仓库采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-仓库进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-仓库采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -210,45 +210,45 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -443,10 +443,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-图形比较进货" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-图形比较采购" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="图形比较进货" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="图形比较采购" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -583,24 +583,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -1472,38 +1472,38 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -1668,52 +1668,52 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货价格分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购价格分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货价格分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购价格分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单执行明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购订单执行明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单执行明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单执行明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单查询" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购订单查询" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单查询" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -1829,24 +1829,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-部门进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-部门采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-部门进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-部门采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-部门进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-部门采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -2508,24 +2508,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-仓库进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-仓库采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-仓库进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-仓库采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-仓库进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-仓库采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -2669,31 +2669,31 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -3026,10 +3026,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-图形比较进货" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-图形比较采购" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="图形比较进货" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="图形比较采购" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -3257,10 +3257,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -4423,31 +4423,31 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -4647,122 +4647,122 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货价格分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购价格分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货价格分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购价格分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货分析报表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购分析报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货分析报表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购分析报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货开票付款分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购开票付款分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货成本明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购成本明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货成本明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购成本明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货明细账本" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购明细账本" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货明细账本" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购明细账本" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货订单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购订单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货订单执行明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购订单执行明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单执行明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单执行明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货费用分配单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购费用分配单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用分配单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用分配单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货费用单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购费用单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货费用汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购费用汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货退货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购退货单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货退货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购退货单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货退货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购退货单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货退货明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购退货明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -4871,24 +4871,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-部门进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-部门采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-部门进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-部门采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-部门进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-部门采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -5609,7 +5609,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="存货进货汇总表分布表">
+    <TemplateInfo TemplateName="存货采购汇总表分布表">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -5636,10 +5636,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货建议表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购建议表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货建议表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购建议表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -5767,10 +5767,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -5795,10 +5795,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6082,17 +6082,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货分析报表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购分析报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货分析报表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购分析报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货建议表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购建议表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货建议表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购建议表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6215,10 +6215,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6278,24 +6278,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款明细账(按存货显示)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款明细账(按存货显示)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货显示)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货显示)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6572,17 +6572,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货明细账本" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购明细账本" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货明细账本" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购明细账本" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6677,17 +6677,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6719,24 +6719,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--年报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--年报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--年报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--年报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--月报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--月报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--月报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--月报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--日报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--日报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--日报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--日报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6866,17 +6866,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货趋势表--年报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购趋势表--年报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--年报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--年报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货趋势表--月报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购趋势表--月报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--月报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--月报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7068,17 +7068,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货订单查询" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购订单查询" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单查询" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7089,17 +7089,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货开票付款明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购开票付款明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货开票付款明细账(按存货显示)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购开票付款明细账(按存货显示)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货显示)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货显示)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7110,10 +7110,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货趋势表--日报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购趋势表--日报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--日报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--日报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7166,17 +7166,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用分配单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用分配单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用分配单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用分配单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7187,10 +7187,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货费用明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购费用明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7277,7 +7277,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货订单交期预警">
+    <TemplateInfo TemplateName="财贸双全-采购订单交期预警">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -7343,7 +7343,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单交期预警">
+    <TemplateInfo TemplateName="工贸-采购订单交期预警">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -7489,10 +7489,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购订单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7743,10 +7743,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7911,45 +7911,45 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-职员进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-职员采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -8249,7 +8249,7 @@
     <TemplateInfo TemplateName="财贸双全-预警信息板" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单交期预警" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单交期预警" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -8535,24 +8535,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-仓库进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-仓库采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-仓库进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-仓库采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-仓库进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-仓库采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="仓库进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="仓库采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -8710,31 +8710,31 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -9099,10 +9099,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-图形比较进货" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-图形比较采购" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="图形比较进货" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="图形比较采购" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -9330,10 +9330,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-存货进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-存货采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -10531,31 +10531,31 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -10769,136 +10769,136 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货价格分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购价格分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货价格分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购价格分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货分析报表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购分析报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货分析报表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购分析报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货开票付款分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购开票付款分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购开票付款明细账(按存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货成本明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购成本明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货成本明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购成本明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货按单据开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购按单据开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按单据开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按单据开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货按存货开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购按存货开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按存货开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按存货开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货明细账本" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购明细账本" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货明细账本" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购明细账本" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货订单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购订单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货订单执行明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购订单执行明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单执行明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单执行明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货费用分配单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购费用分配单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用分配单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用分配单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货费用单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购费用单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货费用汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购费用汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货退货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购退货单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货退货单统计" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购退货单统计" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货退货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购退货单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货退货明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购退货明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -11021,24 +11021,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-部门进货明细表(存货汇总)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-部门采购明细表(存货汇总)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表(存货汇总)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表(存货汇总)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-部门进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-部门采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-部门进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-部门采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="部门进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="部门采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -11794,7 +11794,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="存货进货汇总表分布表">
+    <TemplateInfo TemplateName="存货采购汇总表分布表">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -11821,10 +11821,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货建议表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购建议表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货建议表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购建议表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -11966,10 +11966,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-职员进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-职员采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -11994,10 +11994,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12295,17 +12295,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货分析报表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购分析报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货分析报表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购分析报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货建议表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购建议表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货建议表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购建议表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12428,10 +12428,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12491,24 +12491,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款分析" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款分析" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款分析" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款分析" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货开票付款明细账(按存货显示)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购开票付款明细账(按存货显示)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货显示)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货显示)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12785,17 +12785,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货明细账本" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购明细账本" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货明细账本" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购明细账本" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12890,17 +12890,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货退货单统计列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购退货单统计列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货退货单统计列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购退货单统计列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12932,24 +12932,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--年报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--年报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--年报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--年报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--月报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--月报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--月报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--月报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货趋势表--日报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购趋势表--日报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--日报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--日报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13093,17 +13093,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货趋势表--年报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购趋势表--年报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--年报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--年报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货趋势表--月报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购趋势表--月报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--月报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--月报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13316,17 +13316,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-存货进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-存货采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货订单查询" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购订单查询" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单查询" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13337,17 +13337,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货开票付款明细账" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购开票付款明细账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货开票付款明细账(按存货显示)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购开票付款明细账(按存货显示)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货开票付款明细账(按存货显示)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购开票付款明细账(按存货显示)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13358,10 +13358,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货趋势表--日报" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购趋势表--日报" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货趋势表--日报" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购趋势表--日报" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13414,17 +13414,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货费用分配单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购费用分配单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用分配单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用分配单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13435,10 +13435,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货费用明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购费用明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货费用明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购费用明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13539,7 +13539,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货订单交期预警">
+    <TemplateInfo TemplateName="财务版-采购订单交期预警">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -13607,7 +13607,7 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单交期预警">
+    <TemplateInfo TemplateName="工贸-采购订单交期预警">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
       </Styles>
@@ -13760,10 +13760,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货订单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购订单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -14035,10 +14035,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-存货进货汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-存货采购汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -14224,45 +14224,45 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-存货进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-存货采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-存货进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-存货采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-供应商进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-供应商采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货订单汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购订单汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-职员进货订单汇总表列表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-职员采购订单汇总表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="职员进货订单汇总表列表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="职员采购订单汇总表列表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -14483,10 +14483,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -14566,10 +14566,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财务版-进货未交数量表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财务版-采购未交数量表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货未交数量表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购未交数量表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -14709,7 +14709,7 @@
     <TemplateInfo TemplateName="财务版-预警信息板" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货订单交期预警" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购订单交期预警" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -15102,10 +15102,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货按单据开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购按单据开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按单据开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按单据开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -15123,10 +15123,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货成本明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购成本明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货成本明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购成本明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -15711,10 +15711,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货按存货开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购按存货开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按存货开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按存货开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16309,17 +16309,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货订单明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购订单明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货订单明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购订单明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16427,10 +16427,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货检验报告" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购检验报告" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验报告" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验报告" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16658,10 +16658,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货检验单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购检验单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16672,10 +16672,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货检验单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购检验单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16821,10 +16821,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货检验报告" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购检验报告" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验报告" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验报告" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16877,80 +16877,80 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货按单据开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购按单据开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按单据开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按单据开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货按单据开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购按单据开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按单据开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按单据开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货按存货开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购按存货开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按存货开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按存货开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货按存货开票" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购按存货开票" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按存货开票" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按存货开票" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货进货检验汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-存货采购检验汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货检验汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购检验汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货检验明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购检验明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货按项目检验明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购按项目检验明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按项目检验明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按项目检验明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货进货检验汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-存货采购检验汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货进货检验汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="存货采购检验汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货检验明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购检验明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货检验明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购检验明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货按项目检验明细表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购按项目检验明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货按项目检验明细表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购按项目检验明细表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货未交数量表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购未交数量表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货未交数量表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购未交数量表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16961,10 +16961,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货未交数量表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购未交数量表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货未交数量表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购未交数量表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -17129,17 +17129,17 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商进货检验汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-供应商采购检验汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货检验汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购检验汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商进货检验汇总表" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-供应商采购检验汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商进货检验汇总表" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="供应商采购检验汇总表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -17178,24 +17178,24 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-进货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-采购单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-进货单" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-采购单" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="进货单" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="采购单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -18064,10 +18064,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-收款过程(进货退货单)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="工贸-收款过程(采购退货单)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="收款过程(进货退货单)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="收款过程(采购退货单)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -18078,10 +18078,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-收款过程(进货退货单)" CurrentStyleIndex="1">
+    <TemplateInfo TemplateName="财贸双全-收款过程(采购退货单)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="收款过程(进货退货单)" StyleIndex="1" />
+        <TemplateStyleInfo StyleName="收款过程(采购退货单)" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
