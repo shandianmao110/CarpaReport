@@ -18,9 +18,9 @@
             </Row>
             <Row X="9.921875" Y="45.1143229166667" Width="189.70625" Height="5.11432291666667">
               <Cells>
-                <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="日期" TextHAlign="Center" WordWrap="true" X="9.921875" Y="45.1143229166667" Width="19.3145833333333" Height="5.11432291666667" BoldFont="true" />
+                <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="单据日期" TextHAlign="Center" WordWrap="true" X="9.921875" Y="45.1143229166667" Width="19.3145833333333" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="23.2833333333333" OrigHeight="5.11432291666667" Text="单据编号" TextHAlign="Center" WordWrap="true" X="29.2364583333333" Y="45.1143229166667" Width="23.2833333333333" Height="5.11432291666667" BoldFont="true" />
-                <Cell OrigWidth="21.43125" OrigHeight="5.11432291666667" Text="摘要" TextHAlign="Center" WordWrap="true" X="52.5197916666667" Y="45.1143229166667" Width="21.43125" Height="5.11432291666667" BoldFont="true" />
+                <Cell OrigWidth="21.43125" OrigHeight="5.11432291666667" Text="单据摘要" TextHAlign="Center" WordWrap="true" X="52.5197916666667" Y="45.1143229166667" Width="21.43125" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="单据类型" TextHAlign="Center" WordWrap="true" X="73.9510416666667" Y="45.1143229166667" Width="19.5791666666667" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="存货编号" TextHAlign="Center" WordWrap="true" X="93.5302083333333" Y="45.1143229166667" Width="19.5791666666667" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="存货全名" TextHAlign="Center" WordWrap="true" X="113.109375" Y="45.1143229166667" Width="19.3145833333333" Height="5.11432291666667" BoldFont="true" />
@@ -31,9 +31,9 @@
             </Row>
             <Row X="9.921875" Y="50.2286458333333" Width="189.70625" Height="5.11432291666667">
               <Cells>
-                <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="日期" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="9.921875" Y="50.2286458333333" Width="19.3145833333333" Height="5.11432291666667" TextColor="black" />
+                <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="单据日期" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="9.921875" Y="50.2286458333333" Width="19.3145833333333" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="23.2833333333333" OrigHeight="5.11432291666667" Text="单据编号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="29.2364583333333" Y="50.2286458333333" Width="23.2833333333333" Height="5.11432291666667" TextColor="black" />
-                <Cell OrigWidth="21.43125" OrigHeight="5.11432291666667" Text="摘要" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="52.5197916666667" Y="50.2286458333333" Width="21.43125" Height="5.11432291666667" TextColor="black" />
+                <Cell OrigWidth="21.43125" OrigHeight="5.11432291666667" Text="单据摘要" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="52.5197916666667" Y="50.2286458333333" Width="21.43125" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="单据类型" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="73.9510416666667" Y="50.2286458333333" Width="19.5791666666667" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="存货编号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="93.5302083333333" Y="50.2286458333333" Width="19.5791666666667" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="存货全名" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="113.109375" Y="50.2286458333333" Width="19.3145833333333" Height="5.11432291666667" TextColor="black" />
