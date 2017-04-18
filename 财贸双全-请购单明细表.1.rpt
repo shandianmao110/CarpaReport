@@ -26,7 +26,7 @@
             <Row X="9.39270833333333" Y="45" Width="189.970833333333" Height="5" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="11.1125" OrigHeight="5" Text="行号" FieldKind="Detail" X="9.39270833333333" Y="45" Width="11.1125" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="11.90625" OrigHeight="5" Text="需求日期" FieldKind="Detail" X="20.5052083333333" Y="45" Width="11.90625" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="11.90625" OrigHeight="5" Text="单据日期" FieldKind="Detail" X="20.5052083333333" Y="45" Width="11.90625" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="16.9333333333333" OrigHeight="5" Text="单据编号" FieldKind="Detail" X="32.4114583333333" Y="45" Width="16.9333333333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="9.26041666666666" OrigHeight="5" Text="行摘要" FieldKind="Detail" X="49.3447916666666" Y="45" Width="9.26041666666666" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.8166666666667" OrigHeight="5" Text="经办人编号" FieldKind="Detail" X="58.6052083333333" Y="45" Width="14.8166666666667" Height="5" TextVAlign="Center" WordWrap="true" />
@@ -101,7 +101,7 @@
         <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
         <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
-        <Band BandKind="PageDetail" Y="39.6875" Height="237" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
         <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
