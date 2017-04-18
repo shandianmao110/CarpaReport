@@ -20,17 +20,17 @@
             </Row>
             <Row X="9.921875" Y="45.640625" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="27.78125" OrigHeight="5.11432291666667" Text="日期" X="9.921875" Y="45.640625" Width="27.78125" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="订单编号" X="37.703125" Y="45.640625" Width="23.8125" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="27.2520833333333" OrigHeight="5.11432291666667" Text="单位名称" X="61.515625" Y="45.640625" Width="27.2520833333333" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="24.3416666666667" OrigHeight="5.11432291666667" Text="经办人" X="88.7677083333333" Y="45.640625" Width="24.3416666666667" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="45.5083333333333" OrigHeight="5.11432291666667" Text="交货日期" X="113.109375" Y="45.640625" Width="45.5083333333333" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="38.25625" OrigHeight="5.11432291666667" Text="是否完成" X="158.617708333333" Y="45.640625" Width="38.25625" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.78125" OrigHeight="5.11432291666667" Text="单据日期" X="9.921875" Y="45.640625" Width="27.78125" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="订单编号" X="37.703125" Y="45.640625" Width="23.8125" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.2520833333333" OrigHeight="5.11432291666667" Text="单位名称" X="61.515625" Y="45.640625" Width="27.2520833333333" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.3416666666667" OrigHeight="5.11432291666667" Text="经办人" X="88.7677083333333" Y="45.640625" Width="24.3416666666667" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="45.5083333333333" OrigHeight="5.11432291666667" Text="交货日期" X="113.109375" Y="45.640625" Width="45.5083333333333" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="38.25625" OrigHeight="5.11432291666667" Text="是否完成" X="158.617708333333" Y="45.640625" Width="38.25625" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="9.921875" Y="50.7549479166667" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="27.78125" OrigHeight="5.11432291666667" Text="日期" FieldKind="Detail" X="9.921875" Y="50.7549479166667" Width="27.78125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.78125" OrigHeight="5.11432291666667" Text="单据日期" FieldKind="Detail" X="9.921875" Y="50.7549479166667" Width="27.78125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="订单编号" FieldKind="Detail" X="37.703125" Y="50.7549479166667" Width="23.8125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.2520833333333" OrigHeight="5.11432291666667" Text="客户全名" FieldKind="Detail" X="61.515625" Y="50.7549479166667" Width="27.2520833333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="24.3416666666667" OrigHeight="5.11432291666667" Text="经办人全名" FieldKind="Detail" X="88.7677083333333" Y="50.7549479166667" Width="24.3416666666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
