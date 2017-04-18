@@ -18,8 +18,8 @@
             </Row>
             <Row X="9.921875" Y="45" Width="189.970833333333" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell RowSpan="2" CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="日期" X="9.921875" Y="45" Width="24.60625" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell RowSpan="2" CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="摘要" X="34.528125" Y="45" Width="24.60625" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell RowSpan="2" CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="单据日期" X="9.921875" Y="45" Width="24.60625" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell RowSpan="2" CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="单据摘要" X="34.528125" Y="45" Width="24.60625" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="43.9208333333333" OrigHeight="5" Text="收入" X="59.134375" Y="45" Width="43.9208333333333" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="38.89375" OrigHeight="5" Text="发出" X="103.055208333333" Y="45" Width="38.89375" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="57.9437500000001" OrigHeight="5" Text="结存" X="141.948958333333" Y="45" Width="57.9437500000001" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
@@ -42,8 +42,8 @@
             </Row>
             <Row X="9.921875" Y="55" Width="189.970833333333" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="日期" FieldKind="Detail" X="9.921875" Y="55" Width="24.60625" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="摘要" FieldKind="Detail" X="34.528125" Y="55" Width="24.60625" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="单据日期" FieldKind="Detail" X="9.921875" Y="55" Width="24.60625" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="单据摘要" FieldKind="Detail" X="34.528125" Y="55" Width="24.60625" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="13.49375" OrigHeight="5" Text="收入数量" FieldKind="Detail" X="59.134375" Y="55" Width="13.49375" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="16.1395833333333" OrigHeight="5" Text="收入单位成本" FieldKind="Detail" X="72.628125" Y="55" Width="16.1395833333333" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.2875" OrigHeight="5" Text="收入金额" FieldKind="Detail" X="88.7677083333333" Y="55" Width="14.2875" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
