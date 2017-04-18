@@ -34,7 +34,7 @@
             </Row>
             <Row X="9.921875" Y="50.2286458333333" Width="189.970833333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="日期" FieldKind="Detail" X="9.921875" Y="50.2286458333333" Width="19.3145833333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.3145833333333" OrigHeight="5.11432291666667" Text="单据日期" FieldKind="Detail" X="9.921875" Y="50.2286458333333" Width="19.3145833333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="26.19375" OrigHeight="5.11432291666667" Text="存货编号" FieldKind="Detail" X="29.2364583333333" Y="50.2286458333333" Width="26.19375" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5.11432291666667" Text="存货全名" FieldKind="Detail" X="55.4302083333333" Y="50.2286458333333" Width="22.225" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="23.5479166666667" OrigHeight="5.11432291666667" Text="出库仓库" FieldKind="Detail" X="77.6552083333333" Y="50.2286458333333" Width="23.5479166666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
