@@ -44,7 +44,7 @@
                 <Cell OrigWidth="33.0924479166665" OrigHeight="5" Text="存货全名" FieldKind="Detail" WordWrap="true" X="38.7614583333333" Y="61.8104166666667" Width="33.0924479166665" Height="5" />
                 <Cell OrigWidth="33.0924479166665" OrigHeight="5" Text="账面库存数量" FieldKind="Detail" WordWrap="true" X="71.8539062499998" Y="61.8104166666667" Width="33.0924479166665" Height="5" />
                 <Cell OrigWidth="30.4075520833335" OrigHeight="5" Text="实际盘点数量" FieldKind="Detail" WordWrap="true" X="104.946354166666" Y="61.8104166666667" Width="30.4075520833335" Height="5" />
-                <Cell OrigWidth="30.4075520833335" OrigHeight="5" Text="差异数量" FieldKind="Detail" WordWrap="true" X="135.35390625" Y="61.8104166666667" Width="30.4075520833335" Height="5" />
+                <Cell OrigWidth="30.4075520833335" OrigHeight="5" Text="差异数" FieldKind="Detail" WordWrap="true" X="135.35390625" Y="61.8104166666667" Width="30.4075520833335" Height="5" />
                 <Cell OrigWidth="34.1312499999995" OrigHeight="5" Text="盘点备注" FieldKind="Detail" WordWrap="true" X="165.761458333333" Y="61.8104166666667" Width="34.1312499999995" Height="5" />
               </Cells>
             </Row>
