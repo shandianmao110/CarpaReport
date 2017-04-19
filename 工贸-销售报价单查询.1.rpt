@@ -40,7 +40,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="43.0489583333333" OrigHeight="5" Text="合计:" X="10" Y="50" Width="43.0489583333333" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="89.1645833333334" OrigHeight="5" Text="" X="53.0489583333333" Y="50" Width="89.1645833333334" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="17.9916666666666" OrigHeight="5" Text="金额" FieldKind="ToCurPageSum" X="142.213541666667" Y="50" Width="17.9916666666666" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.9916666666666" OrigHeight="5" Text="折前金额" FieldKind="ToCurPageSum" X="142.213541666667" Y="50" Width="17.9916666666666" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20.3729166666667" OrigHeight="5" Text="折后金额" FieldKind="ToCurPageSum" X="160.205208333333" Y="50" Width="20.3729166666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="18.25625" OrigHeight="5" Text="价税合计" FieldKind="ToCurPageSum" X="180.578125" Y="50" Width="18.25625" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
