@@ -13,9 +13,8 @@
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="存货全名" DecimalDigits="0" X="60" Y="40" Width="25" Height="5" />
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="仓库全名" DecimalDigits="0" X="85" Y="40" Width="25" Height="5" />
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="货位全名" DecimalDigits="0" X="110" Y="40" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="项目全名" DecimalDigits="0" X="135" Y="40" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="状态" DecimalDigits="0" X="160" Y="40" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.0895720163981" OrigHeight="5" Text="备注" DecimalDigits="0" X="185" Y="40" Width="22.0895720163981" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="状态" DecimalDigits="0" X="135" Y="40" Width="25" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="47.0895720163981" OrigHeight="5" Text="备注" DecimalDigits="0" X="160" Y="40" Width="47.0895720163981" Height="5" />
               </Cells>
             </Row>
             <Row X="10" Y="45" Width="197.089572016398" Height="5" TextVAlign="Center">
@@ -25,9 +24,8 @@
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="60" Y="45" Width="25" Height="5" />
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="仓库全名" FieldKind="Detail" DecimalDigits="0" X="85" Y="45" Width="25" Height="5" />
                 <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="货位全名" FieldKind="Detail" DecimalDigits="0" X="110" Y="45" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="项目全名" FieldKind="Detail" DecimalDigits="0" X="135" Y="45" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="状态" FieldKind="Detail" DecimalDigits="0" X="160" Y="45" Width="25" Height="5" />
-                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.0895720163981" OrigHeight="5" Text="备注" FieldKind="Detail" DecimalDigits="0" X="185" Y="45" Width="22.0895720163981" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="25" OrigHeight="5" Text="状态" FieldKind="Detail" DecimalDigits="0" X="135" Y="45" Width="25" Height="5" />
+                <Cell TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="47.0895720163981" OrigHeight="5" Text="备注" FieldKind="Detail" DecimalDigits="0" X="160" Y="45" Width="47.0895720163981" Height="5" />
               </Cells>
             </Row>
           </Rows>
@@ -38,7 +36,7 @@
         <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
         <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
-        <Band BandKind="PageDetail" Y="39.6875" Height="237" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
         <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
