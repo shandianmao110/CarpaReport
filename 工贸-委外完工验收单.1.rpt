@@ -81,7 +81,7 @@
                 <Cell CellWidth="3.4" OrigWidth="14.5520833333333" OrigHeight="5" Text="存货全名" X="39.290625" Y="30.8479172229767" Width="14.5520833333333" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="8.46666666666667" OrigHeight="5" Text="规格" X="53.8427083333333" Y="30.8479172229767" Width="8.46666666666667" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="8.20208333333333" OrigHeight="5" Text="单位" X="62.309375" Y="30.8479172229767" Width="8.20208333333333" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计领用数量" X="70.5114583333333" Y="30.8479172229767" Width="22.225" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计发料数量" X="70.5114583333333" Y="30.8479172229767" Width="22.225" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.6958333333333" OrigHeight="5" Text="累计已用数量" X="92.7364583333333" Y="30.8479172229767" Width="21.6958333333333" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.2874999999998" OrigHeight="5" Text="未用数量" X="114.432291666667" Y="30.8479172229767" Width="14.2874999999998" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.9604166666668" OrigHeight="5" Text="本次使用数量" X="128.719791666666" Y="30.8479172229767" Width="21.9604166666668" Height="5" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
@@ -97,7 +97,7 @@
                 <Cell CellWidth="3.4" OrigWidth="14.5520833333333" OrigHeight="5" Text="存货全名" FieldKind="Detail" X="39.290625" Y="35.8479172229767" Width="14.5520833333333" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="8.46666666666667" OrigHeight="5" Text="规格" FieldKind="Detail" X="53.8427083333333" Y="35.8479172229767" Width="8.46666666666667" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="8.20208333333333" OrigHeight="5" Text="单位" FieldKind="Detail" X="62.309375" Y="35.8479172229767" Width="8.20208333333333" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计领用数量" FieldKind="Detail" X="70.5114583333333" Y="35.8479172229767" Width="22.225" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计发料数量" FieldKind="Detail" X="70.5114583333333" Y="35.8479172229767" Width="22.225" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.6958333333333" OrigHeight="5" Text="累计已用数量" FieldKind="Detail" X="92.7364583333333" Y="35.8479172229767" Width="21.6958333333333" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.2874999999998" OrigHeight="5" Text="未用数量" FieldKind="Detail" X="114.432291666667" Y="35.8479172229767" Width="14.2874999999998" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.9604166666668" OrigHeight="5" Text="本次使用数量" FieldKind="Detail" X="128.719791666666" Y="35.8479172229767" Width="21.9604166666668" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
@@ -109,7 +109,7 @@
             <Row X="10.2645836114883" Y="40.8479172229767" Width="189.628124721845" Height="5" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="60.246874721845" OrigHeight="5" Text="合计" X="10.2645836114883" Y="40.8479172229767" Width="60.246874721845" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计领用数量" FieldKind="ToCurPageSum" X="70.5114583333333" Y="40.8479172229767" Width="22.225" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5" Text="累计发料数量" FieldKind="ToCurPageSum" X="70.5114583333333" Y="40.8479172229767" Width="22.225" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.6958333333333" OrigHeight="5" Text="累计已用数量" FieldKind="ToCurPageSum" X="92.7364583333333" Y="40.8479172229767" Width="21.6958333333333" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.2874999999999" OrigHeight="5" Text="未用数量" FieldKind="ToCurPageSum" X="114.432291666667" Y="40.8479172229767" Width="14.2874999999999" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.9604166666667" OrigHeight="5" Text="本次使用数量" FieldKind="ToCurPageSum" X="128.719791666667" Y="40.8479172229767" Width="21.9604166666667" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
@@ -142,7 +142,7 @@
         <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
         <Band BandKind="PageDetail" Y="19.84375" Height="250.957291666667" TextVAlign="Center" />
         <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
-        <Band BandKind="ReportFooter" Y="270.66875" Height="5.53750737508104" TextVAlign="Center" />
+        <Band BandKind="ReportFooter" Y="270.404166666667" Height="5.53750737508104" TextVAlign="Center" />
         <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
       </Bands>
     </Page>

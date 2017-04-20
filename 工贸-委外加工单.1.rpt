@@ -100,7 +100,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="存货全名" X="9.65729166666667" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="数量" X="47.6514583333333" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="领用数量" X="85.6456249999999" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="发料数量" X="85.6456249999999" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="使用数量" X="123.639791666666" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="10" Text="行摘要" X="161.633958333333" Y="30.6916666666667" Width="37.9941666666666" Height="10" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
@@ -109,7 +109,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="存货全名" FieldKind="Detail" X="9.65729166666667" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="数量" FieldKind="Detail" X="47.6514583333333" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="领用数量" FieldKind="Detail" X="85.6456249999999" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="发料数量" FieldKind="Detail" X="85.6456249999999" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="使用数量" FieldKind="Detail" X="123.639791666666" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="行摘要" FieldKind="Detail" X="161.633958333333" Y="40.6916666666667" Width="37.9941666666666" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
@@ -118,7 +118,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="合计" X="9.65729166666667" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextHAlign="Center" TextVAlign="Center" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="数量" FieldKind="ToCurPageSum" X="47.6514583333333" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="领用数量" FieldKind="ToCurPageSum" X="85.6456249999999" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="发料数量" FieldKind="ToCurPageSum" X="85.6456249999999" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="使用数量" FieldKind="ToCurPageSum" X="123.639791666666" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="37.9941666666666" OrigHeight="5" Text="" X="161.633958333333" Y="45.6916666666667" Width="37.9941666666666" Height="5" TextColor="black" TextVAlign="Center" />
               </Cells>
