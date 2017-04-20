@@ -17430,16 +17430,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-存货自定义项" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货自定义项1" StyleIndex="1" />
-        <TemplateStyleInfo StyleName="存货自定义项2" StyleIndex="2" />
-        <TemplateStyleInfo StyleName="存货自定义项3" StyleIndex="3" />
-        <TemplateStyleInfo StyleName="存货自定义项4" StyleIndex="4" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-凭证单据列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18526,16 +18516,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货自定义项" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货自定义项1" StyleIndex="1" />
-        <TemplateStyleInfo StyleName="存货自定义项2" StyleIndex="2" />
-        <TemplateStyleInfo StyleName="存货自定义项3" StyleIndex="3" />
-        <TemplateStyleInfo StyleName="存货自定义项4" StyleIndex="4" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-请购单查询" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18561,6 +18541,62 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="询价单" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-存货自定义项1" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项1" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-存货自定义项2" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项2" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-存货自定义项3" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项3" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-存货自定义项4" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项4" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-存货自定义项1" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项1" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-存货自定义项2" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项2" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-存货自定义项3" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项3" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-存货自定义项4" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货自定义项4" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
