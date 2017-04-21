@@ -30,7 +30,7 @@
                 <Cell CellWidth="3.4" OrigWidth="9.97604166666667" OrigHeight="5" Text="行号" FieldKind="Detail" X="10" Y="45" Width="9.97604166666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="8.73125" OrigHeight="5" Text="单据日期" FieldKind="Detail" X="19.9760416666667" Y="45" Width="8.73125" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="单据编号" FieldKind="Detail" X="28.7072916666667" Y="45" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="8.99583333333334" OrigHeight="5" Text="行摘要" FieldKind="Detail" X="44.053125" Y="45" Width="8.99583333333334" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="8.99583333333334" OrigHeight="5" Text="单据摘要" FieldKind="Detail" X="44.053125" Y="45" Width="8.99583333333334" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="15.6104166666667" OrigHeight="5" Text="单位编号" FieldKind="Detail" X="53.0489583333333" Y="45" Width="15.6104166666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="单位全名" FieldKind="Detail" X="68.659375" Y="45" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="15.08125" OrigHeight="5" Text="存货编号" FieldKind="Detail" X="84.0052083333333" Y="45" Width="15.08125" Height="5" TextVAlign="Center" WordWrap="true" />
