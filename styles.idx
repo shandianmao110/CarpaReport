@@ -18600,6 +18600,13 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-委托结算调整单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="委托结算调整单" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-仓库账面差异汇总表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
