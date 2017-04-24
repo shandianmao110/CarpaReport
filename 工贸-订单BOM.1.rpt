@@ -30,9 +30,18 @@
                 <Cell CellWidth="3.4" OrigWidth="25.1354166666667" OrigHeight="13.2020825068156" Text="现损耗率" FieldKind="Detail" X="174.492708333333" Y="75.9760391871134" Width="25.1354166666667" Height="13.2020825068156" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
-            <Row X="10" Y="89.178121693929" Width="189.628125" Height="5" TextVAlign="Center">
+            <Row X="10.000000278155" Y="50.2104170481364" Width="189.628124721845" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="189.628125" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="10" Y="89.178121693929" Width="189.628125" Height="5" TextColor="black" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="37.925624944369" OrigHeight="5" Text="审核单位：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="10.000000278155" Y="50.2104170481364" Width="37.925624944369" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="37.925624944369" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="47.925625222524" Y="50.2104170481364" Width="37.925624944369" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="37.925624944369" OrigHeight="5" Text="制表人：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85.851250166893" Y="50.2104170481364" Width="37.925624944369" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="49.3929165554047" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="123.776875111262" Y="50.2104170481364" Width="49.3929165554047" Height="5" TextHAlign="Right" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="26.4583333333333" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="173.169791666667" Y="50.2104170481364" Width="26.4583333333333" Height="5" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="10.000000278155" Y="55.2104170481364" Width="189.628124721845" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="189.628124721845" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="10.000000278155" Y="55.2104170481364" Width="189.628124721845" Height="5" TextColor="black" TextHAlign="Right" TextVAlign="Center" />
               </Cells>
             </Row>
           </Rows>
