@@ -7256,12 +7256,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-采购订单交期预警">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="财贸双全-销售订单交期预警">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -17395,13 +17389,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-报警簿-超期应收款" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="报警簿-超期应收款" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-报警簿-超期应付款" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -17413,13 +17400,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="报警簿-超期订单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-报警簿-超期生产任务单" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="报警簿-超期生产任务单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -17900,13 +17880,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-报警簿-超期委外加工单" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="工贸-报警簿-超期委外加工单.1" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-委外加工领料情况表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18341,20 +18314,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-报警簿-超期采购订单" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="超期采购订单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-报警簿-超期销售订单" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="超期销售订单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-仓库账面对账明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18660,6 +18619,48 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="组装与拆分单汇总" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-报警簿-超期应收款" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="报警簿-超期应收款" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-报警簿-超期销售订单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="超期销售订单" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-报警簿-超期生产任务单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="报警簿-超期生产任务单" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-报警簿-超期委外加工单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="工贸-报警簿-超期委外加工单.1" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-采购订单交期预警" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="采购订单交期预警" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-报警簿-超期采购订单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="超期采购订单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
