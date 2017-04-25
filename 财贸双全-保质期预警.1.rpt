@@ -7,24 +7,24 @@
           <Rows>
             <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="仓库全名" DecimalDigits="0" X="10" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" DecimalDigits="0" X="37.1428571428571" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="自定义项1" DecimalDigits="0" X="64.2857142857143" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="自定义项2" DecimalDigits="0" X="91.4285714285714" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="到期日期" DecimalDigits="0" X="118.571428571429" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="批号" DecimalDigits="0" X="145.714285714286" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="数量" DecimalDigits="0" X="172.857142857143" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="仓库全名" DecimalDigits="0" X="10" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货全名" DecimalDigits="0" X="37.1428571428571" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="自定义项1" DecimalDigits="0" X="64.2857142857142" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="自定义项2" DecimalDigits="0" X="91.4285714285713" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="到期日期" DecimalDigits="0" X="118.571428571428" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="批号" DecimalDigits="0" X="145.714285714285" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="数量" DecimalDigits="0" X="172.857142857143" Y="50" Width="27.1428571428571" Height="5" TextVAlign="Center" />
               </Cells>
             </Row>
             <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
               <Cells>
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="仓库全名" FieldKind="Detail" DecimalDigits="0" X="10" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="37.1428571428571" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="自定义1全名" FieldKind="Detail" DecimalDigits="0" X="64.2857142857143" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="自定义2全名" FieldKind="Detail" DecimalDigits="0" X="91.4285714285714" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="到期日期" FieldKind="Detail" DecimalDigits="0" X="118.571428571429" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="批号" FieldKind="Detail" DecimalDigits="0" X="145.714285714286" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
-                <Cell OrigWidth="27.1428571428571" OrigHeight="5" AccounttantLineVisble="true" Text="数量" FieldKind="Detail" DecimalDigits="0" X="172.857142857143" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="仓库全名" FieldKind="Detail" DecimalDigits="0" X="10" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="37.1428571428571" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="自定义项1" FieldKind="Detail" DecimalDigits="0" X="64.2857142857142" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="自定义项2" FieldKind="Detail" DecimalDigits="0" X="91.4285714285713" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="到期日期" FieldKind="Detail" DecimalDigits="0" X="118.571428571428" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="批号" FieldKind="Detail" DecimalDigits="0" X="145.714285714285" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
+                <Cell CellWidth="3.4" OrigWidth="27.1428571428571" OrigHeight="5" Text="数量" FieldKind="Detail" DecimalDigits="0" X="172.857142857143" Y="55" Width="27.1428571428571" Height="5" TextVAlign="Center" />
               </Cells>
             </Row>
           </Rows>
