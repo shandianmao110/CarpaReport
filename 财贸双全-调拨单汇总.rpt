@@ -3,7 +3,7 @@
     <Page Width="210" Height="297" TextVAlign="Center">
       <OrderFields />
       <Elements>
-        <TextElement Text="工贸-仓库出库单汇总" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="133" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TextElement Text="工贸-调拨单汇总" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="105" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
         <TableElement X="10" Y="40" Width="200" Height="237" TextVAlign="Center">
           <Rows>
             <Row Height="5" TextVAlign="Center">
@@ -21,7 +21,9 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅1数量" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅2数量" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅助数量" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="副单位数量" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单价" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="金额" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="副单位数量" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row Height="5" TextVAlign="Center">
@@ -39,7 +41,9 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅1数量" FieldKind="Detail" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅2数量" FieldKind="Detail" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="辅助数量" FieldKind="Detail" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="副单位数量" FieldKind="Detail" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单价" FieldKind="Detail" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="金额" FieldKind="Detail" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="副单位数量" FieldKind="Detail" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row Height="5" TextVAlign="Center">
@@ -58,6 +62,8 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="240" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="260" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="280" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="" DecimalDigits="0" X="300" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
           </Rows>
@@ -75,6 +81,6 @@
       </Bands>
     </Page>
   </Pages>
-  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
   <ExpressionFields />
 </Report>
