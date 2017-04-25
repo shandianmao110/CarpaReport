@@ -22,8 +22,8 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="10" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据编号" FieldKind="Detail" DecimalDigits="0" X="30" Y="45" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20.7760416666667" OrigHeight="5" Text="供应商编号" FieldKind="Detail" DecimalDigits="0" X="50" Y="45" Width="20.7760416666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5" Text="供应商全名" FieldKind="Detail" DecimalDigits="0" X="70.7760416666667" Y="45" Width="21.1666666666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20.7760416666667" OrigHeight="5" Text="结算单位编号" FieldKind="Detail" DecimalDigits="0" X="50" Y="45" Width="20.7760416666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5" Text="结算单位全名" FieldKind="Detail" DecimalDigits="0" X="70.7760416666667" Y="45" Width="21.1666666666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5" Text="经办人编号" FieldKind="Detail" DecimalDigits="0" X="91.9427083333334" Y="45" Width="21.1666666666667" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="26.19375" OrigHeight="5" Text="经办人全名" FieldKind="Detail" DecimalDigits="0" X="113.109375" Y="45" Width="26.19375" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.2520833333333" OrigHeight="5" Text="欠款金额" FieldKind="Detail" DecimalDigits="0" X="139.303125" Y="45" Width="27.2520833333333" Height="5" TextVAlign="Center" WordWrap="true" />
