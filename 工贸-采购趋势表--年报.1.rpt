@@ -28,7 +28,7 @@
             <Row X="9.921875" Y="50.2286458333333" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="28.3104166666667" OrigHeight="5.11432291666667" Text="期间" X="9.921875" Y="50.2286458333333" Width="28.3104166666667" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text="进货金额" X="38.2322916666667" Y="50.2286458333333" Width="49.2125" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text=" 采购金额" X="38.2322916666667" Y="50.2286458333333" Width="49.2125" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="72.4958333333334" OrigHeight="5.11432291666667" Text="进项税额" X="87.4447916666667" Y="50.2286458333333" Width="72.4958333333334" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="36.9333333333333" OrigHeight="5" Text="价税合计" X="159.940625" Y="50.2286458333333" Width="36.9333333333333" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" />
               </Cells>
@@ -36,7 +36,7 @@
             <Row X="9.921875" Y="55.34296875" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="28.3104166666667" OrigHeight="5.11432291666667" Text="期间" FieldKind="Detail" X="9.921875" Y="55.34296875" Width="28.3104166666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text="进货金额" FieldKind="Detail" X="38.2322916666667" Y="55.34296875" Width="49.2125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text="采购金额" FieldKind="Detail" X="38.2322916666667" Y="55.34296875" Width="49.2125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="72.4958333333334" OrigHeight="5.11432291666667" Text="进项税额" FieldKind="Detail" X="87.4447916666667" Y="55.34296875" Width="72.4958333333334" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="36.9333333333333" OrigHeight="5" Text="价税合计" FieldKind="Detail" X="159.940625" Y="55.34296875" Width="36.9333333333333" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" />
               </Cells>
@@ -44,7 +44,7 @@
             <Row X="9.921875" Y="60.4572916666667" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="28.3104166666667" OrigHeight="5.11432291666667" Text="合计：" X="9.921875" Y="60.4572916666667" Width="28.3104166666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text="进货金额" FieldKind="ToCurPageSum" X="38.2322916666667" Y="60.4572916666667" Width="49.2125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="49.2125" OrigHeight="5.11432291666667" Text="采购金额" FieldKind="ToCurPageSum" X="38.2322916666667" Y="60.4572916666667" Width="49.2125" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="72.4958333333334" OrigHeight="5.11432291666667" Text="进项税额" FieldKind="ToCurPageSum" X="87.4447916666667" Y="60.4572916666667" Width="72.4958333333334" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="36.9333333333333" OrigHeight="5" Text="价税合计" FieldKind="ToCurPageSum" X="159.940625" Y="60.4572916666667" Width="36.9333333333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" />
               </Cells>
