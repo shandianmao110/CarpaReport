@@ -33,7 +33,7 @@
                 <Cell CellWidth="3.4" OrigWidth="30.1625" OrigHeight="5" Text="" X="64.4260416666667" Y="53.459375" Width="30.1625" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="32.0145833333333" OrigHeight="5" Text="" X="94.5885416666667" Y="53.459375" Width="32.0145833333333" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="30.6916666666667" OrigHeight="5" Text="" X="126.603125" Y="53.459375" Width="30.6916666666667" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="42.5979166666667" OrigHeight="5" Text="开票金额" FieldKind="Total" X="157.294791666667" Y="53.459375" Width="42.5979166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="42.5979166666667" OrigHeight="5" Text="开票金额" FieldKind="ToCurPageSum" X="157.294791666667" Y="53.459375" Width="42.5979166666667" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="10" Y="58.459375" Width="189.892708333333" Height="5" TextVAlign="Center">
@@ -63,6 +63,8 @@
         <TextElement Text="单据编号：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="65.0333366394043" Y="36.1895828564962" Width="20" Height="5" TextVAlign="Center" />
         <TextElement Text="单据类型" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="30.0000018437703" Y="36.1895828564962" Width="34.5520818710327" Height="5.0000001390775" TextVAlign="Center" />
         <TextElement Text="单据类型：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="10.000000278155" Y="36.1895828564962" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="结算单位：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="127.529166666667" Y="36.1895828564962" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="结算单位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="149.489583333333" Y="36.1895828564962" Width="20" Height="5" TextVAlign="Center" />
       </Elements>
       <Bands>
         <Band IsVisible="false" TextVAlign="Center" />

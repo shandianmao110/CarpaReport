@@ -8,14 +8,14 @@
           <Rows>
             <Row X="9.921875" Y="43.9885416666667" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5.11432291666667" Text="单据日期" X="9.921875" Y="43.9885416666667" Width="22.225" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="34.13125" OrigHeight="5.11432291666667" Text="单据编号" X="32.146875" Y="43.9885416666667" Width="34.13125" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5.11432291666667" Text="存货" X="66.278125" Y="43.9885416666667" Width="21.1666666666667" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="23.01875" OrigHeight="5.11432291666667" Text="数量" X="87.4447916666667" Y="43.9885416666667" Width="23.01875" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="14.8166666666667" OrigHeight="5.11432291666667" Text="单价" X="110.463541666667" Y="43.9885416666667" Width="14.8166666666667" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5.11432291666667" Text="金额" X="125.280208333333" Y="43.9885416666667" Width="24.0770833333333" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="21.9604166666667" OrigHeight="5.11432291666667" Text="往来单位" X="149.357291666667" Y="43.9885416666667" Width="21.9604166666667" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="25.5562500000001" OrigHeight="5.11432291666667" Text="仓库" X="171.317708333333" Y="43.9885416666667" Width="25.5562500000001" Height="5.11432291666667" BoldFont="true" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="22.225" OrigHeight="5.11432291666667" Text="单据日期" X="9.921875" Y="43.9885416666667" Width="22.225" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="34.13125" OrigHeight="5.11432291666667" Text="单据编号" X="32.146875" Y="43.9885416666667" Width="34.13125" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5.11432291666667" Text="存货" X="66.278125" Y="43.9885416666667" Width="21.1666666666667" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="23.01875" OrigHeight="5.11432291666667" Text="数量" X="87.4447916666667" Y="43.9885416666667" Width="23.01875" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="14.8166666666667" OrigHeight="5.11432291666667" Text="单价" X="110.463541666667" Y="43.9885416666667" Width="14.8166666666667" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5.11432291666667" Text="金额" X="125.280208333333" Y="43.9885416666667" Width="24.0770833333333" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="21.9604166666667" OrigHeight="5.11432291666667" Text="单位全名" X="149.357291666667" Y="43.9885416666667" Width="21.9604166666667" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="25.5562500000001" OrigHeight="5.11432291666667" Text="仓库" X="171.317708333333" Y="43.9885416666667" Width="25.5562500000001" Height="5.11432291666667" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
             <Row X="9.921875" Y="49.1028645833334" Width="186.952083333333" Height="5.11432291666667" TextVAlign="Center">
@@ -33,9 +33,9 @@
             <Row X="9.921875" Y="54.2171875" Width="186.952083333334" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="77.5229166666667" OrigHeight="5.11432291666667" Text="合计" X="9.921875" Y="54.2171875" Width="77.5229166666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="23.01875" OrigHeight="5.11432291666667" Text="数量" FieldKind="Total" X="87.4447916666667" Y="54.2171875" Width="23.01875" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="23.01875" OrigHeight="5.11432291666667" Text="数量" FieldKind="ToCurPageSum" X="87.4447916666667" Y="54.2171875" Width="23.01875" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="14.8166666666667" OrigHeight="5.11432291666667" Text="" X="110.463541666667" Y="54.2171875" Width="14.8166666666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5.11432291666667" Text="金额" FieldKind="Total" X="125.280208333333" Y="54.2171875" Width="24.0770833333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="24.0770833333333" OrigHeight="5.11432291666667" Text="金额" FieldKind="ToCurPageSum" X="125.280208333333" Y="54.2171875" Width="24.0770833333333" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="47.516666666667" OrigHeight="5.11432291666667" Text="" X="149.357291666667" Y="54.2171875" Width="47.516666666667" Height="5.11432291666667" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>

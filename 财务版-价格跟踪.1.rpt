@@ -11,7 +11,7 @@
                 <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="行号" X="9.921875" Y="40" Width="15.3458333333333" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="21.1666666666667" OrigHeight="5" Text="存货编号" X="25.2677083333333" Y="40" Width="21.1666666666667" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="24.8708333333333" OrigHeight="5" Text="存货全名" X="46.434375" Y="40" Width="24.8708333333333" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="30.5901061286454" OrigHeight="5" Text="往来单位" X="71.3052083333333" Y="40" Width="30.5901061286454" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="30.5901061286454" OrigHeight="5" Text="单位全名" X="71.3052083333333" Y="40" Width="30.5901061286454" Height="5" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="29.999477204688" OrigHeight="5" Text="最近采购价" X="101.895314461979" Y="40" Width="29.999477204688" Height="5" TextHAlign="Center" TextVAlign="Center" />
                 <Cell CellWidth="3.4" OrigWidth="24.60625" OrigHeight="5" Text="最近售价" X="131.894791666667" Y="40" Width="24.60625" Height="5" TextHAlign="Center" TextVAlign="Center" />
                 <Cell CellWidth="3.4" OrigWidth="43.3916666666667" OrigHeight="5" Text="折扣率" X="156.501041666667" Y="40" Width="43.3916666666667" Height="5" TextHAlign="Center" TextVAlign="Center" />

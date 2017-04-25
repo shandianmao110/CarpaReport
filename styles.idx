@@ -126,13 +126,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商往来明细账" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商往来明细账" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-供应商往来查询(包含预付)" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -933,13 +926,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-开票查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="开票查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-当前库存分布情况表列表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -993,13 +979,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="批号存货进出库汇总表" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-时间段流水账" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="时间段流水账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -6089,13 +6068,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-其他出库报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -6485,27 +6457,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="付款过程" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他出库报表（明细表）" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他出库报表（明细表）" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他入库报表（明细表）" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他入库报表（明细表）" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他出入库报表" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他出入库报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -7214,13 +7165,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-草稿查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="草稿查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-订单BOM" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -7466,13 +7410,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="销售单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据查找" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据查找" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -12289,13 +12226,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-其他出库报表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -12685,27 +12615,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="付款过程" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他出库报表（明细表）" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他出库报表（明细表）" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他入库报表（明细表）" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他入库报表（明细表）" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他出入库报表" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他出入库报表" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -13463,13 +13372,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-草稿查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="草稿查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-订单BOM" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -13730,13 +13632,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="销售单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据查找" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据查找" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -15460,20 +15355,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他付款业务" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他付款业务" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他付款业务" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他付款业务" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-其他收款业务" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -15576,13 +15457,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="保质期预警" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-应付费用分配单" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="应付费用分配单" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -16348,20 +16222,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="销售开票回款分析" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -17768,13 +17628,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-价格跟踪" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="价格跟踪" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="财贸双全-费用报销明细表" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -17954,13 +17807,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="委外调价单" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-存货开票查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="存货开票查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -18682,6 +18528,160 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="采购分析报表" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-存货开票查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="存货开票查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-价格跟踪" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="价格跟踪" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-供应商往来明细账" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="供应商往来明细账" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他付款业务" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他付款业务" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他付款业务" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他付款业务" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他出入库报表" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他出入库报表" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他出入库报表" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他出入库报表" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他出库报表（明细表）" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他出库报表（明细表）" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他出库报表（明细表）" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他出库报表（明细表）" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据查找" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据查找" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据查找" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据查找" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-应付费用分配单" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="应付费用分配单" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-开票查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="开票查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-时间段流水账" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="时间段流水账" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-草稿查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="草稿查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-草稿查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="草稿查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他入库报表（明细表）" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他入库报表（明细表）" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他入库报表（明细表）" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他入库报表（明细表）" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
