@@ -21,8 +21,8 @@
             </Row>
             <Row X="9.921875" Y="45.1143229166667" Width="189.70625" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="发货单位编码" X="9.921875" Y="45.1143229166667" Width="23.8125" Height="5.11432291666667" />
-                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.4895833333333" OrigHeight="5.11432291666667" Text="发货单位全名" X="33.734375" Y="45.1143229166667" Width="22.4895833333333" Height="5.11432291666667" />
+                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="单位编码" X="9.921875" Y="45.1143229166667" Width="23.8125" Height="5.11432291666667" />
+                <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.4895833333333" OrigHeight="5.11432291666667" Text="单位全名" X="33.734375" Y="45.1143229166667" Width="22.4895833333333" Height="5.11432291666667" />
                 <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据日期" X="56.2239583333333" Y="45.1143229166667" Width="20" Height="5.11432291666667" />
                 <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19.6875" OrigHeight="5.11432291666667" Text="估入数量" X="76.2239583333333" Y="45.1143229166667" Width="19.6875" Height="5.11432291666667" />
                 <Cell TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="估入金额" X="95.9114583333333" Y="45.1143229166667" Width="19.5791666666667" Height="5.11432291666667" />
@@ -34,8 +34,8 @@
             </Row>
             <Row X="9.921875" Y="50.2286458333333" Width="189.70625" Height="5.11432291666667" TextVAlign="Center">
               <Cells>
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="发货单位编码" FieldKind="Detail" X="9.921875" Y="50.2286458333333" Width="23.8125" Height="5.11432291666667" />
-                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.4895833333333" OrigHeight="5.11432291666667" Text="发货单位全名" FieldKind="Detail" X="33.734375" Y="50.2286458333333" Width="22.4895833333333" Height="5.11432291666667" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="单位编码" FieldKind="Detail" X="9.921875" Y="50.2286458333333" Width="23.8125" Height="5.11432291666667" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="22.4895833333333" OrigHeight="5.11432291666667" Text="单位全名" FieldKind="Detail" X="33.734375" Y="50.2286458333333" Width="22.4895833333333" Height="5.11432291666667" />
                 <Cell TextVAlign="Center" CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据日期" FieldKind="Detail" X="56.2239583333333" Y="50.2286458333333" Width="20" Height="5.11432291666667" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19.6875" OrigHeight="5.11432291666667" Text="估入数量" FieldKind="Detail" X="76.2239583333333" Y="50.2286458333333" Width="19.6875" Height="5.11432291666667" />
                 <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="19.5791666666667" OrigHeight="5.11432291666667" Text="估入金额" FieldKind="Detail" X="95.9114583333333" Y="50.2286458333333" Width="19.5791666666667" Height="5.11432291666667" />
