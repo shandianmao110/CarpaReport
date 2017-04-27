@@ -81,8 +81,8 @@
         <TextElement Text="摘       要 ：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="11.1666633605957" Y="53.3874995231628" Width="23.439585908254" Height="5.0000001390775" TextVAlign="Center" />
         <TextElement Text="送 检 单 号：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="10.8583372116089" Y="47.625" Width="20" Height="5" TextVAlign="Center" />
         <TextElement Text="送检单号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="32.8083333333333" Y="47.8895833333333" Width="70.0062485376994" Height="5.0000001390775" TextVAlign="Center" />
-        <TextElement Text="进货订单号：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="106.572919972738" Y="49.4770833333333" Width="20" Height="5" TextVAlign="Center" />
-        <TextElement Text="进货订单号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="129.591669972738" Y="49.2125" Width="71.329165204366" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="采购订单号：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="106.572919972738" Y="49.4770833333333" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="采购订单号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="ReportHeader" X="129.591669972738" Y="49.2125" Width="71.329165204366" Height="5.0000001390775" TextVAlign="Center" />
       </Elements>
       <Bands>
         <Band IsVisible="false" TextVAlign="Center" />

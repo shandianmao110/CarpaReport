@@ -12,8 +12,8 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="交货日期" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据日期" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据编号" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="发货单位编号" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="发货单位全名" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位编号" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位全名" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="制单人编号" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="制单人全名" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货编号" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
@@ -48,8 +48,8 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="交货日期" FieldKind="Detail" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据日期" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单据编号" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="发货单位编号" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="发货单位全名" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位编号" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位全名" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="制单人编号" FieldKind="Detail" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="制单人全名" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="存货编号" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
