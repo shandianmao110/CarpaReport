@@ -3,7 +3,7 @@
     <Page Width="210" Height="297" TextVAlign="Center">
       <OrderFields />
       <Elements>
-        <TextElement Text="工贸-采购分析报表" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="119" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TextElement Text="工贸-采购分析报表（列表）" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="175" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
         <TableElement X="10" Y="40" Width="200" Height="237" TextVAlign="Center">
           <Rows>
             <Row Height="5" TextVAlign="Center">
@@ -66,6 +66,6 @@
       </Bands>
     </Page>
   </Pages>
-  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
   <ExpressionFields />
 </Report>
