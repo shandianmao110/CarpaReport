@@ -27,7 +27,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="自定义2全名" DecimalDigits="0" X="320" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="数量" DecimalDigits="0" X="340" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已检数量" DecimalDigits="0" X="360" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已转进货数量" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已转采购数量" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="拒收数量" DecimalDigits="0" X="400" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
@@ -52,7 +52,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="自定义2全名" FieldKind="Detail" DecimalDigits="0" X="320" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="数量" FieldKind="Detail" DecimalDigits="0" X="340" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已检数量" FieldKind="Detail" DecimalDigits="0" X="360" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已转进货数量" FieldKind="Detail" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="已转采购数量" FieldKind="Detail" DecimalDigits="0" X="380" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="拒收数量" FieldKind="Detail" DecimalDigits="0" X="400" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>

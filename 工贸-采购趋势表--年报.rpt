@@ -10,7 +10,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="期间" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货金额" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购金额" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进项税额" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="价税合计" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
@@ -19,7 +19,7 @@
               <Cells>
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="期间" FieldKind="Detail" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货金额" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购金额" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进项税额" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="价税合计" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>

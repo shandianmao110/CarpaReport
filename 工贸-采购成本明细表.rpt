@@ -16,7 +16,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="数量" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="单价" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货金额" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="采购金额" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="运输费" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="装卸费" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="保险费" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
@@ -53,7 +53,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="数量" FieldKind="Detail" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="单价" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货金额" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="采购金额" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="运输费" FieldKind="Detail" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="装卸费" FieldKind="Detail" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="保险费" FieldKind="Detail" DecimalDigits="0" X="220" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />

@@ -32,7 +32,7 @@
                 <Cell OrigWidth="25.7912074496777" OrigHeight="5.11432291666667" Text="单据编号" TextHAlign="Center" WordWrap="true" X="51.8640008836556" Y="55.34296875" Width="25.7912074496777" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="28.8395833333333" OrigHeight="5.11432291666667" Text="摘要" TextHAlign="Center" WordWrap="true" X="77.6552083333333" Y="55.34296875" Width="28.8395833333333" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="28.575" OrigHeight="5.11432291666667" Text="数量" TextHAlign="Center" WordWrap="true" X="106.494791666667" Y="55.34296875" Width="28.575" Height="5.11432291666667" BoldFont="true" />
-                <Cell OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="进货金额" TextHAlign="Center" WordWrap="true" X="135.069791666667" Y="55.34296875" Width="23.8125" Height="5.11432291666667" BoldFont="true" />
+                <Cell OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="采购金额" TextHAlign="Center" WordWrap="true" X="135.069791666667" Y="55.34296875" Width="23.8125" Height="5.11432291666667" BoldFont="true" />
                 <Cell OrigWidth="39.0395833333337" OrigHeight="5.11432291666667" Text="成本合计" TextHAlign="Center" WordWrap="true" X="158.882291666667" Y="55.34296875" Width="39.0395833333337" Height="5.11432291666667" BoldFont="true" />
               </Cells>
             </Row>
@@ -43,7 +43,7 @@
                 <Cell OrigWidth="25.7912074496777" OrigHeight="5.11432291666667" Text="单据编号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="51.8640008836556" Y="60.4572916666667" Width="25.7912074496777" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="28.8395833333333" OrigHeight="5.11432291666667" Text="摘要" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="77.6552083333333" Y="60.4572916666667" Width="28.8395833333333" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="28.575" OrigHeight="5.11432291666667" Text="数量" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="106.494791666667" Y="60.4572916666667" Width="28.575" Height="5.11432291666667" TextColor="black" />
-                <Cell OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="进货金额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="135.069791666667" Y="60.4572916666667" Width="23.8125" Height="5.11432291666667" TextColor="black" />
+                <Cell OrigWidth="23.8125" OrigHeight="5.11432291666667" Text="采购金额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="135.069791666667" Y="60.4572916666667" Width="23.8125" Height="5.11432291666667" TextColor="black" />
                 <Cell OrigWidth="39.0395833333337" OrigHeight="5.11432291666667" Text="成本合计" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="158.882291666667" Y="60.4572916666667" Width="39.0395833333337" Height="5.11432291666667" TextColor="black" />
               </Cells>
             </Row>

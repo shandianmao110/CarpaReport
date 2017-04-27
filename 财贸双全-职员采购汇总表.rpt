@@ -11,11 +11,11 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="职员编号" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="职员全名" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货数量" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货金额" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购数量" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购金额" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="价税合计" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="税额" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货比重" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购比重" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货费用" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位成本" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货总成本" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
@@ -26,11 +26,11 @@
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="职员编号" FieldKind="Detail" DecimalDigits="0" X="20" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="职员全名" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货数量" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货金额" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购数量" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购金额" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="价税合计" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="税额" FieldKind="Detail" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货比重" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="采购比重" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货费用" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="单位成本" FieldKind="Detail" DecimalDigits="0" X="180" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="20" OrigHeight="5" Text="进货总成本" FieldKind="Detail" DecimalDigits="0" X="200" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />

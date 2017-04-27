@@ -11,11 +11,11 @@
                 <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="部门编号" WordWrap="true" X="20" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="部门全名" WordWrap="true" X="40" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货数量" WordWrap="true" X="60" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购数量" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" WordWrap="true" X="80" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="价税合计" WordWrap="true" X="100" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="税额" WordWrap="true" X="120" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货比重" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购比重" WordWrap="true" X="140" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货费用" WordWrap="true" X="160" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="单位成本" WordWrap="true" X="180" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货总成本" WordWrap="true" X="200" Width="20" Height="5" />
@@ -26,11 +26,11 @@
                 <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="部门编号" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="部门全名" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货数量" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购数量" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="价税合计" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="税额" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货比重" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购比重" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货费用" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="单位成本" FieldKind="Detail" WordWrap="true" X="180" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货总成本" FieldKind="Detail" WordWrap="true" X="200" Width="20" Height="5" />

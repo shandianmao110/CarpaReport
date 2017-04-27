@@ -13,8 +13,8 @@
                 <Cell OrigWidth="20" OrigHeight="5" Text="存货全名" WordWrap="true" X="40" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="期初结存数量" WordWrap="true" X="60" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="期初结存金额" WordWrap="true" X="80" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货数量" WordWrap="true" X="100" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购数量" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" WordWrap="true" X="120" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货退货数量" WordWrap="true" X="140" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货退货金额" WordWrap="true" X="160" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="生产入库数量" WordWrap="true" X="180" Width="20" Height="5" />
@@ -69,8 +69,8 @@
                 <Cell OrigWidth="20" OrigHeight="5" Text="存货全名" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="期初结存数量" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="期初结存金额" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货数量" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购数量" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货退货数量" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进货退货金额" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="生产入库数量" FieldKind="Detail" WordWrap="true" X="180" Width="20" Height="5" />

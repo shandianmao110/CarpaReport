@@ -10,7 +10,7 @@
               <Cells>
                 <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="单据编号" WordWrap="true" X="20" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" WordWrap="true" X="40" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进项税额" WordWrap="true" X="60" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="价税合计" WordWrap="true" X="80" Width="20" Height="5" />
               </Cells>
@@ -19,7 +19,7 @@
               <Cells>
                 <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="单据编号" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
-                <Cell OrigWidth="20" OrigHeight="5" Text="进货金额" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="采购金额" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="进项税额" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
                 <Cell OrigWidth="20" OrigHeight="5" Text="价税合计" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
               </Cells>

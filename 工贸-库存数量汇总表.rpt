@@ -13,7 +13,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="期初结存数量" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="期初结存副单位数量" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货数量" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="采购数量" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货副单位数量" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货退货数量" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货退货副单位数量" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
@@ -70,7 +70,7 @@
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="存货全名" FieldKind="Detail" DecimalDigits="0" X="40" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="期初结存数量" FieldKind="Detail" DecimalDigits="0" X="60" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="期初结存副单位数量" FieldKind="Detail" DecimalDigits="0" X="80" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货数量" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="采购数量" FieldKind="Detail" DecimalDigits="0" X="100" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货副单位数量" FieldKind="Detail" DecimalDigits="0" X="120" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货退货数量" FieldKind="Detail" DecimalDigits="0" X="140" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell OrigWidth="20" OrigHeight="5" AccounttantLineVisble="true" Text="进货退货副单位数量" FieldKind="Detail" DecimalDigits="0" X="160" Width="20" Height="5" TextVAlign="Center" WordWrap="true" />
