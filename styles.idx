@@ -15439,20 +15439,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-应付按单结算查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="应付按单结算查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-应付按单结算查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="应付按单结算查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="财贸双全-保质期预警" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -16078,13 +16064,6 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="其他出入库单模板" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-应付按存货结算查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="应付按存货结算查询" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -18020,31 +17999,10 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-客户往来对账" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="客户往来对账" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="财贸双全-客户往来对账" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="客户往来对账" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="财贸双全-供应商往来对账" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商往来对账" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-供应商往来对账" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="供应商往来对账" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>
@@ -18412,13 +18370,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-其他出库单汇总" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="其他出库单汇总" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="财贸双全-其他出库单汇总" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18538,27 +18489,6 @@
       </Styles>
       <FontStyle />
     </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
-    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
-      <Styles>
-        <TemplateStyleInfo StyleName="基本样式" />
-        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
-      </Styles>
-      <FontStyle />
-    </TemplateInfo>
     <TemplateInfo TemplateName="工贸-价格跟踪" CurrentStyleIndex="1">
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
@@ -18675,6 +18605,76 @@
       <Styles>
         <TemplateStyleInfo StyleName="基本样式" />
         <TemplateStyleInfo StyleName="其他入库报表（明细表）" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="财贸双全-供应商往来对账" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="供应商往来对账" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-供应商往来对账" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="供应商往来对账" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-客户往来对账" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="客户往来对账" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-应付按单结算查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="应付按单结算查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-应付按单结算查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="应付按单结算查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-应付按存货结算查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="应付按存货结算查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票情况查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票情况查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-单据开票明细查询" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="单据开票明细查询" StyleIndex="1" />
+      </Styles>
+      <FontStyle />
+    </TemplateInfo>
+    <TemplateInfo TemplateName="工贸-其他出库单汇总" CurrentStyleIndex="1">
+      <Styles>
+        <TemplateStyleInfo StyleName="基本样式" />
+        <TemplateStyleInfo StyleName="其他出库单汇总" StyleIndex="1" />
       </Styles>
       <FontStyle />
     </TemplateInfo>

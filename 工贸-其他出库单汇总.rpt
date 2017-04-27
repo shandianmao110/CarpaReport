@@ -3,7 +3,7 @@
     <Page Width="210" Height="297" TextVAlign="Center">
       <OrderFields />
       <Elements>
-        <TextElement Text="工贸-调拨单汇总" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="105" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TextElement Text="工贸-其他出库单汇总" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" X="85" Y="5" Width="133" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
         <TableElement X="10" Y="40" Width="200" Height="237" TextVAlign="Center">
           <Rows>
             <Row Height="5" TextVAlign="Center">
