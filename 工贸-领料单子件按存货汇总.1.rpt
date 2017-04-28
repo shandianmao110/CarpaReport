@@ -13,7 +13,7 @@
                 <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="10" Text="存货编号" X="64.2550595238094" Y="40" Width="27.1275297619047" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.0184523809526" OrigHeight="10" Text="存货全名" X="91.3825892857141" Y="40" Width="27.0184523809526" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.2366071428568" OrigHeight="10" Text="基本数量" X="118.401041666667" Y="40" Width="27.2366071428568" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="10" Text="成本单价" X="145.637648809523" Y="40" Width="27.1275297619047" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="10" Text="单价" X="145.637648809523" Y="40" Width="27.1275297619047" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="10" Text="金额" X="172.765178571428" Y="40" Width="27.1275297619047" Height="10" TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
@@ -24,7 +24,7 @@
                 <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="5" Text="存货编号" FieldKind="Detail" X="64.2550595238094" Y="50" Width="27.1275297619047" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.0184523809526" OrigHeight="5" Text="存货全名" FieldKind="Detail" X="91.3825892857141" Y="50" Width="27.0184523809526" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.2366071428568" OrigHeight="5" Text="基本数量" FieldKind="Detail" X="118.401041666667" Y="50" Width="27.2366071428568" Height="5" TextVAlign="Center" WordWrap="true" />
-                <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="5" Text="成本单价" FieldKind="Detail" X="145.637648809523" Y="50" Width="27.1275297619047" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="5" Text="单价" FieldKind="Detail" X="145.637648809523" Y="50" Width="27.1275297619047" Height="5" TextVAlign="Center" WordWrap="true" />
                 <Cell CellWidth="3.4" OrigWidth="27.1275297619047" OrigHeight="5" Text="金额" FieldKind="Detail" X="172.765178571428" Y="50" Width="27.1275297619047" Height="5" TextVAlign="Center" WordWrap="true" />
               </Cells>
             </Row>
