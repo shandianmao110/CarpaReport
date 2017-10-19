@@ -1,0 +1,81 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="50" Width="190" Height="197.000006993612" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="26.909375" OrigHeight="5" Text="凭证日期" X="10" Y="50" Width="26.909375" Height="5" TextHAlign="Center" TextVAlign="Center" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="25.4" OrigHeight="5" Text="凭证号" X="36.909375" Y="50" Width="25.4" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="46.3020833333333" OrigHeight="5" Text="会计科目" X="62.309375" Y="50" Width="46.3020833333333" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="28.0458333333333" OrigHeight="5" Text="摘要" X="108.611458333333" Y="50" Width="28.0458333333333" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="31.6760416666667" OrigHeight="5" Text="借方" X="136.657291666667" Y="50" Width="31.6760416666667" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="31.6666666666667" OrigHeight="5" Text="贷方" X="168.333333333333" Y="50" Width="31.6666666666667" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="26.909375" OrigHeight="5" Text="凭证日期" FieldKind="Detail" X="10" Y="55" Width="26.909375" Height="5" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="25.4" OrigHeight="5" Text="凭证号" FieldKind="Detail" X="36.909375" Y="55" Width="25.4" Height="5" />
+                <Cell TextColor="black" TextVAlign="Center" CellWidth="3.4" OrigWidth="46.3020833333333" OrigHeight="5" Text="会计科目" FieldKind="Detail" X="62.309375" Y="55" Width="46.3020833333333" Height="5" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" WordWrap="true" CellWidth="3.4" OrigWidth="28.0458333333333" OrigHeight="5" Text="摘要" FieldKind="Detail" X="108.611458333333" Y="55" Width="28.0458333333333" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" CellWidth="3.4" OrigWidth="31.6760416666667" OrigHeight="5" Text="借方" FieldKind="Detail" X="136.657291666667" Y="55" Width="31.6760416666667" Height="5" />
+                <Cell TextColor="black" TextHAlign="Right" TextVAlign="Center" CellWidth="3.4" OrigWidth="31.6666666666667" OrigHeight="5" Text="贷方" FieldKind="Detail" X="168.333333333333" Y="55" Width="31.6666666666667" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="10.264582602183" Y="25.0770828564962" Width="189.597923278809" Height="16.9062496344248" FontSize="26" TextHAlign="Center" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="30" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="49.7416666666667" Height="227" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="50" Width="190" Height="196.477089945475" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="现金流量代码" X="10" Y="50" Width="47.5" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="现金流量名称" X="57.5" Y="50" Width="47.5" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="方向" X="105" Y="50" Width="47.5" Height="5" />
+                <Cell TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="金额" X="152.5" Y="50" Width="47.5" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="现金流量代码" FieldKind="Detail" X="10" Y="55" Width="47.5" Height="5" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="现金流量名称" FieldKind="Detail" X="57.5" Y="55" Width="47.5" Height="5" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="方向" FieldKind="Detail" X="105" Y="55" Width="47.5" Height="5" />
+                <Cell TextColor="black" TextHAlign="Center" TextVAlign="Center" CellWidth="3.4" OrigWidth="47.5" OrigHeight="5" Text="金额" FieldKind="Detail" X="152.5" Y="55" Width="47.5" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="30" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="49.7416666666667" Height="197" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" ContinuousPrintPages="true" />
+  <ExpressionFields />
+</Report>

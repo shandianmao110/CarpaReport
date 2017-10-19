@@ -1,0 +1,71 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" BandKind="ReportHeader" X="9.59375387827555" Y="20.6104163010915" Width="190.747917683919" Height="10.000000278155" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="10" Y="55.8947916666667" Width="194.126041666667" Height="220.79270846049" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="55.8947916666667" Width="194.126041666667" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="12.3572916666667" OrigHeight="5" Text="行号" X="10" Y="55.8947916666667" Width="12.3572916666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="BOM编号" X="22.3572916666667" Y="55.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="BOM名称" X="40.084375" Y="55.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.9333333333333" OrigHeight="5" Text="BOM类别" X="57.8114583333333" Y="55.8947916666667" Width="16.9333333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="12.7" OrigHeight="5" Text="级次" X="74.7447916666666" Y="55.8947916666667" Width="12.7" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.7854166666667" OrigHeight="5" Text="存货编号" X="87.4447916666666" Y="55.8947916666667" Width="18.7854166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.05" OrigHeight="5" Text="存货全名" X="106.230208333333" Y="55.8947916666667" Width="19.05" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="单位" X="125.280208333333" Y="55.8947916666667" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="12.4354166666667" OrigHeight="5" Text="规格" X="140.626041666667" Y="55.8947916666667" Width="12.4354166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="型号" X="153.061458333333" Y="55.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="数量" X="170.788541666667" Y="55.8947916666667" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.9916666666668" OrigHeight="5" Text="损耗率%" X="186.134375" Y="55.8947916666667" Width="17.9916666666668" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="60.8947916666667" Width="194.126041666667" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="12.3572916666667" OrigHeight="5" Text="行号" FieldKind="Detail" X="10" Y="60.8947916666667" Width="12.3572916666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="BOM编号" FieldKind="Detail" X="22.3572916666667" Y="60.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="BOM名称" FieldKind="Detail" X="40.084375" Y="60.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="16.9333333333333" OrigHeight="5" Text="BOM类别" FieldKind="Detail" X="57.8114583333333" Y="60.8947916666667" Width="16.9333333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="12.7" OrigHeight="5" Text="级次" FieldKind="Detail" X="74.7447916666666" Y="60.8947916666667" Width="12.7" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.7854166666667" OrigHeight="5" Text="存货编号" FieldKind="Detail" X="87.4447916666666" Y="60.8947916666667" Width="18.7854166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="19.05" OrigHeight="5" Text="存货全名" FieldKind="Detail" X="106.230208333333" Y="60.8947916666667" Width="19.05" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="单位" FieldKind="Detail" X="125.280208333333" Y="60.8947916666667" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="12.4354166666667" OrigHeight="5" Text="规格" FieldKind="Detail" X="140.626041666667" Y="60.8947916666667" Width="12.4354166666667" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.7270833333333" OrigHeight="5" Text="型号" FieldKind="Detail" X="153.061458333333" Y="60.8947916666667" Width="17.7270833333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="15.3458333333333" OrigHeight="5" Text="数量" FieldKind="Detail" X="170.788541666667" Y="60.8947916666667" Width="15.3458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="17.9916666666668" OrigHeight="5" Text="损耗率" FieldKind="Detail" X="186.134375" Y="60.8947916666667" Width="17.9916666666668" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="子件存货编号：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="11.587500278155" Y="41.6374995231628" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="编    号" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="36.458332602183" Y="41.6374995231628" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="子件存货全名：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="68.858332602183" Y="41.6374995231628" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="子项名称" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="94.787503306071" Y="41.9020828564962" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="子件存货规格：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="133.775003306071" Y="41.6374995231628" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="规    格" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="157.322919972738" Y="41.6374995231628" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="子件存货单位：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="11.587500278155" Y="50.0458328564962" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="单    位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="36.458332602183" Y="50.3104161898295" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="数    量" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="95.0520866394043" Y="50.3687495231628" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="数        量：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="68.858332602183" Y="50.1041661898295" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="定 额 工 时：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="133.775003306071" Y="50.6333328564962" Width="22.38125055631" Height="5.0000001390775" TextVAlign="Center" />
+        <TextElement Text="定额工时" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="157.322919972738" Y="50.3687495231628" Width="20" Height="5" TextVAlign="Center" />
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" DecimalDigits="0" BandKind="PageHeader" X="181.135423024495" Y="14.0229166666667" Width="20" Height="5" TextVAlign="Center" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="35.8510416666667" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="55.8270833333333" Height="221.148958333333" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,50 @@
+<Report ReportKind="AcountReport" MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="19.84375" Width="189.5" Height="10.8479166666667">
+          <Rows>
+            <Row X="10" Y="19.84375" Width="189.5" Height="5">
+              <Cells>
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="职员" TextHAlign="Center" X="10" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="基本工资" TextHAlign="Center" X="33.6875" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="计件工资" TextHAlign="Center" X="57.375" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="应发合计" TextHAlign="Center" X="81.0625" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="个人所得税" TextHAlign="Center" X="104.75" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="应扣合计" TextHAlign="Center" X="128.4375" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="实发合计" TextHAlign="Center" X="152.125" Y="19.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="含税合计" TextHAlign="Center" X="175.8125" Y="19.84375" Width="23.6875" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="24.84375" Width="189.5" Height="5">
+              <Cells>
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="职员全名" FieldKind="Detail" X="10" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="基本工资" FieldKind="Detail" X="33.6875" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="计件工资" FieldKind="Detail" X="57.375" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="应发合计" FieldKind="Detail" X="81.0625" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="个人所得税" FieldKind="Detail" X="104.75" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="应扣合计" FieldKind="Detail" X="128.4375" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="实发合计" FieldKind="Detail" X="152.125" Y="24.84375" Width="23.6875" Height="5" />
+                <Cell OrigWidth="23.6875" OrigHeight="5" Text="含税合计" FieldKind="Detail" X="175.8125" Y="24.84375" Width="23.6875" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="PageHeader" X="55.6312538782756" Y="6.31875190734863" Width="100" Height="10" FontSize="20" BoldFont="true" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band IsVisible="false" BandKind="ReportHeader" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="19.84375" Height="257" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" PageRows="10" />
+  <ExpressionFields />
+</Report>

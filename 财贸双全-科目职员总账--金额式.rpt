@@ -1,0 +1,52 @@
+<Report>
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="50" Width="190" Height="227">
+          <Rows>
+            <Row X="10" Y="50" Width="190" Height="5">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" X="10" Y="50" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="48" Y="50" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="86" Y="50" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="124" Y="50" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="162" Y="50" Width="38" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="190" Height="5">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" X="10" Y="55" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="48" Y="55" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="86" Y="55" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="124" Y="55" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="162" Y="55" Width="38" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="60" Width="190" Height="5">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" X="10" Y="60" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="48" Y="60" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="86" Y="60" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="124" Y="60" Width="38" Height="5" />
+                <Cell OrigWidth="38" OrigHeight="5" X="162" Y="60" Width="38" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band IsVisible="false" BandKind="ReportHeader" Y="20" Height="30" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="50" Height="227" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

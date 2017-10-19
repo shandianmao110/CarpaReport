@@ -1,0 +1,52 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="50" Width="190" Height="227" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="50" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="10" Y="50" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="48" Y="50" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="86" Y="50" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="124" Y="50" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="162" Y="50" Width="38" Height="5" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="55" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="10" Y="55" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="48" Y="55" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="86" Y="55" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="124" Y="55" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="162" Y="55" Width="38" Height="5" TextVAlign="Center" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="60" Width="190" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="10" Y="60" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="48" Y="60" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="86" Y="60" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="124" Y="60" Width="38" Height="5" TextVAlign="Center" />
+                <Cell OrigWidth="38" OrigHeight="5" AccounttantLineVisble="true" DecimalDigits="0" X="162" Y="60" Width="38" Height="5" TextVAlign="Center" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportHeader" Y="20" Height="30" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="50" Height="227" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="277" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

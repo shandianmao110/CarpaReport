@@ -1,0 +1,135 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="工贸-多级审核中心" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85" Y="5" Width="63" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="40" Width="200" Height="237">
+          <Rows>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="选中" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="日期" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据编号" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据类型" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="摘要" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位编号" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位全名" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="金额" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="经办人" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="制单人" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核级次" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="已通过级次" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义1" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义2" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义3" WordWrap="true" X="300" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="选中" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="日期" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据编号" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据类型" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="摘要" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位编号" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位全名" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="金额" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="经办人" FieldKind="Detail" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="制单人" FieldKind="Detail" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核级次" FieldKind="Detail" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="已通过级次" FieldKind="Detail" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义1" FieldKind="Detail" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义2" FieldKind="Detail" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义3" FieldKind="Detail" WordWrap="true" X="300" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="合计" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="300" Width="20" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="20" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="40" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10" Y="20" Width="200" Height="257">
+          <Rows>
+            <Row Height="5">
+              <Cells />
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核人" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核日期" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核级次" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核情况" WordWrap="true" X="80" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核人" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核日期" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核级次" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="审核情况" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="合计" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="80" Width="20" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band IsVisible="false" BandKind="ReportHeader" Y="20" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="20" Height="257" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" ContinuousPrintPages="true" />
+  <ExpressionFields />
+</Report>

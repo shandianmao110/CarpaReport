@@ -1,0 +1,74 @@
+<Report>
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="工贸-凭证无出纳外币数量" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85" Y="5" Width="84" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="170" Width="200" Height="107">
+          <Rows>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="摘要" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="借方金额" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="贷方金额" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目编号" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目名称" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币金额" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币编码" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币汇率" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目名称1" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="原币数量" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="汇率单价" WordWrap="true" X="220" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="摘要" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="借方金额" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="贷方金额" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目编号" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目名称" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币金额" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币编码" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="外币汇率" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="科目名称1" FieldKind="Detail" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="原币数量" FieldKind="Detail" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="汇率单价" FieldKind="Detail" WordWrap="true" X="220" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="合计" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="220" Width="20" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="20" Height="150" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="170" Height="107" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,122 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="财贸双全-存货进货订单明细表" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" X="85" Y="5" Width="98" Height="10" FontSize="20" BoldFont="true" />
+        <TableElement X="10" Y="40" Width="200" Height="237">
+          <Rows>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="日期" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订单编号" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="交货日期" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据摘要" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="明细摘要" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位编号" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位全名" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="职员编号" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="职员全名" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="仓库编号" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="仓库全名" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货数量" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货金额" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货金额[含税]" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货数量" WordWrap="true" X="300" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货金额" WordWrap="true" X="320" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货金额[含税]" WordWrap="true" X="340" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货数量" WordWrap="true" X="360" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货金额" WordWrap="true" X="380" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货金额[含税]" WordWrap="true" X="400" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义1全名" WordWrap="true" X="420" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义2全名" WordWrap="true" X="440" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项1" WordWrap="true" X="460" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项2" WordWrap="true" X="480" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项3" WordWrap="true" X="500" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项4" WordWrap="true" X="520" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项5" WordWrap="true" X="540" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="行号" FieldKind="Detail" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="日期" FieldKind="Detail" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订单编号" FieldKind="Detail" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="交货日期" FieldKind="Detail" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单据摘要" FieldKind="Detail" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="明细摘要" FieldKind="Detail" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位编号" FieldKind="Detail" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="单位全名" FieldKind="Detail" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="职员编号" FieldKind="Detail" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="职员全名" FieldKind="Detail" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="仓库编号" FieldKind="Detail" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="仓库全名" FieldKind="Detail" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货数量" FieldKind="Detail" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货金额" FieldKind="Detail" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="订货金额[含税]" FieldKind="Detail" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货数量" FieldKind="Detail" WordWrap="true" X="300" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货金额" FieldKind="Detail" WordWrap="true" X="320" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="收货金额[含税]" FieldKind="Detail" WordWrap="true" X="340" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货数量" FieldKind="Detail" WordWrap="true" X="360" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货金额" FieldKind="Detail" WordWrap="true" X="380" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="未收货金额[含税]" FieldKind="Detail" WordWrap="true" X="400" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义1全名" FieldKind="Detail" WordWrap="true" X="420" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自定义2全名" FieldKind="Detail" WordWrap="true" X="440" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项1" FieldKind="Detail" WordWrap="true" X="460" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项2" FieldKind="Detail" WordWrap="true" X="480" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项3" FieldKind="Detail" WordWrap="true" X="500" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项4" FieldKind="Detail" WordWrap="true" X="520" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="自由项5" FieldKind="Detail" WordWrap="true" X="540" Width="20" Height="5" />
+              </Cells>
+            </Row>
+            <Row Height="5">
+              <Cells>
+                <Cell OrigWidth="20" OrigHeight="5" Text="合计" WordWrap="true" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="20" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="40" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="60" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="80" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="100" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="120" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="140" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="160" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="180" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="200" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="220" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="240" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="260" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="280" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="300" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="320" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="340" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="360" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="380" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="400" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="420" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="440" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="460" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="480" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="500" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="520" Width="20" Height="5" />
+                <Cell OrigWidth="20" OrigHeight="5" Text="" WordWrap="true" X="540" Width="20" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="20" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="40" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" Height="20" />
+        <Band BandKind="PageFooter" Y="277" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" />
+  <ExpressionFields />
+</Report>

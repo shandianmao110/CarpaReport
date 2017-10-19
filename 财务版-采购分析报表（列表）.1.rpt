@@ -1,0 +1,71 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" BandKind="PageHeader" X="18.8541705449422" Y="10.0270829677582" Width="175" Height="10" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Top" />
+        <TableElement X="6.29583361148834" Y="39.7354177792867" Width="200" Height="234.306240844727" TextVAlign="Center">
+          <Rows>
+            <Row X="6.29583361148834" Y="39.7354177792867" Width="200" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="行号" DecimalDigits="0" X="6.29583361148834" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="供应商编号" DecimalDigits="0" X="24.4776517933065" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="供应商全名" DecimalDigits="0" X="42.6594699751247" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购日期" DecimalDigits="0" X="60.8412881569429" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="数量" DecimalDigits="0" X="79.0231063387612" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折前" DecimalDigits="0" X="97.2049245205794" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折前" DecimalDigits="0" X="115.386742702398" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折后" DecimalDigits="0" X="133.568560884216" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折后" DecimalDigits="0" X="151.750379066034" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价税后" DecimalDigits="0" X="169.932197247852" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额税后" DecimalDigits="0" X="188.11401542967" Y="39.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="6.29583361148834" Y="44.7354177792867" Width="200" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="行号" FieldKind="Detail" DecimalDigits="0" X="6.29583361148834" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="供应商编号" FieldKind="Detail" DecimalDigits="0" X="24.4776517933065" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="供应商全名" FieldKind="Detail" DecimalDigits="0" X="42.6594699751247" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购日期" FieldKind="Detail" DecimalDigits="0" X="60.8412881569429" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="数量" FieldKind="Detail" DecimalDigits="0" X="79.0231063387612" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折前" FieldKind="Detail" DecimalDigits="0" X="97.2049245205794" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折前" FieldKind="Detail" DecimalDigits="0" X="115.386742702398" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折后" FieldKind="Detail" DecimalDigits="0" X="133.568560884216" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折后" FieldKind="Detail" DecimalDigits="0" X="151.750379066034" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价税后" FieldKind="Detail" DecimalDigits="0" X="169.932197247852" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额税后" FieldKind="Detail" DecimalDigits="0" X="188.11401542967" Y="44.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="6.29583361148834" Y="49.7354177792867" Width="200" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="合计" DecimalDigits="0" X="6.29583361148834" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="" DecimalDigits="0" X="24.4776517933065" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="" DecimalDigits="0" X="42.6594699751247" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="" DecimalDigits="0" X="60.8412881569429" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="数量" FieldKind="ToCurPageSum" DecimalDigits="0" X="79.0231063387612" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折前" FieldKind="ToCurPageSum" DecimalDigits="0" X="97.2049245205794" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折前" FieldKind="ToCurPageSum" DecimalDigits="0" X="115.386742702398" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价折后" FieldKind="ToCurPageSum" DecimalDigits="0" X="133.568560884216" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额折后" FieldKind="ToCurPageSum" DecimalDigits="0" X="151.750379066034" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="采购价税后" FieldKind="ToCurPageSum" DecimalDigits="0" X="169.932197247852" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell CellWidth="3.4" OrigWidth="18.1818181818182" OrigHeight="5" Text="金额税后" FieldKind="ToCurPageSum" DecimalDigits="0" X="188.11401542967" Y="49.7354177792867" Width="18.1818181818182" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.9520833333333" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+</Report>

@@ -1,0 +1,46 @@
+<Report MaxRowCount="0">
+  <PageSettings MarginLeft="10" MarginTop="20" MarginRight="10" MarginBottom="20" PageWidth="210" PageHeight="297" MaxRowCount="0" />
+  <ExpressionFields />
+  <Pages>
+    <Page Width="210" Height="297" TextVAlign="Center">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineWidth="3" LeftLineColor="#FFFFFF" TopLineVisible="false" TopLineWidth="0" TopLineColor="#FFFFFF" RightLineVisible="false" RightLineWidth="0" RightLineColor="#FFFFFF" BottomLineVisible="false" BottomLineWidth="0" BottomLineColor="#FFFFFF" DecimalDigits="0" BandKind="ReportHeader" X="8.80000387827555" Y="21.6687496344248" Width="192.025003814697" Height="10.000000278155" FontSize="20" BoldFont="true" TextHAlign="Center" TextVAlign="Center" />
+        <TableElement X="10" Y="40" Width="189.892708333333" Height="236.422923660278" TextVAlign="Center">
+          <Rows>
+            <Row X="10" Y="40" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20.559375" OrigHeight="5" AccounttantLineVisble="true" Text="货位编号" DecimalDigits="0" X="10" Y="40" Width="20.559375" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="36.5125" OrigHeight="5" AccounttantLineVisble="true" Text="货位全名" DecimalDigits="0" X="30.559375" Y="40" Width="36.5125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="28.0458333333333" OrigHeight="5" AccounttantLineVisble="true" Text="货位助记码" DecimalDigits="0" X="67.071875" Y="40" Width="28.0458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="24.60625" OrigHeight="5" AccounttantLineVisble="true" Text="货位简名" DecimalDigits="0" X="95.1177083333333" Y="40" Width="24.60625" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="38.1" OrigHeight="5" AccounttantLineVisble="true" Text="货位仓库" DecimalDigits="0" X="119.723958333333" Y="40" Width="38.1" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="42.06875" OrigHeight="5" AccounttantLineVisble="true" Text="货位备注" DecimalDigits="0" X="157.823958333333" Y="40" Width="42.06875" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+            <Row X="10" Y="45" Width="189.892708333333" Height="5" TextVAlign="Center">
+              <Cells>
+                <Cell OrigWidth="20.559375" OrigHeight="5" AccounttantLineVisble="true" Text="货位编号" FieldKind="Detail" DecimalDigits="0" X="10" Y="45" Width="20.559375" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="36.5125" OrigHeight="5" AccounttantLineVisble="true" Text="货位全名" FieldKind="Detail" DecimalDigits="0" X="30.559375" Y="45" Width="36.5125" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="28.0458333333333" OrigHeight="5" AccounttantLineVisble="true" Text="货位助记码" FieldKind="Detail" DecimalDigits="0" X="67.071875" Y="45" Width="28.0458333333333" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="24.60625" OrigHeight="5" AccounttantLineVisble="true" Text="货位简名" FieldKind="Detail" DecimalDigits="0" X="95.1177083333333" Y="45" Width="24.60625" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="38.1" OrigHeight="5" AccounttantLineVisble="true" Text="货位仓库" FieldKind="Detail" DecimalDigits="0" X="119.723958333333" Y="45" Width="38.1" Height="5" TextVAlign="Center" WordWrap="true" />
+                <Cell OrigWidth="42.06875" OrigHeight="5" AccounttantLineVisble="true" Text="货位备注" FieldKind="Detail" DecimalDigits="0" X="157.823958333333" Y="45" Width="42.06875" Height="5" TextVAlign="Center" WordWrap="true" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" TextVAlign="Center" />
+        <Band BandKind="PageHeader" Height="20" TextVAlign="Center" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" TextVAlign="Center" />
+        <Band BandKind="PageDetail" Y="39.6875" Height="237" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" TextVAlign="Center" />
+        <Band IsVisible="false" BandKind="ReportFooter" TextVAlign="Center" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" TextVAlign="Center" />
+      </Bands>
+    </Page>
+  </Pages>
+</Report>

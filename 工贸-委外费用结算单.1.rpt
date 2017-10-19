@@ -1,0 +1,124 @@
+<Report>
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="10.3875038782756" Y="21.1395829677582" Width="190.066660817464" Height="10.000000278155" FontSize="20" BoldFont="true" />
+        <TextElement Text="加工单位" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="35.3999992688497" Y="31.1395842552185" Width="20" Height="5" />
+        <TextElement Text="加工单位：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="10.264582602183" Y="31.1395832459132" Width="20" Height="5" />
+        <TextElement Text="经办人：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="66.0916699727376" Y="31.1395842552185" Width="20" Height="5" />
+        <TextElement Text="经 办 人" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="89.375003306071" Y="31.1395832459132" Width="19.7354172229767" Height="5.0000001390775" />
+        <TextElement Text="部    门" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="142.027086639404" Y="31.1395832459132" Width="58.6291692415873" Height="5.0000001390775" />
+        <TextElement Text="部   门：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="119.272919972738" Y="31.1395832459132" Width="20" Height="5" />
+        <TextElement Text="总页码" FieldKind="System" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" BandKind="PageHeader" X="178.804169972738" Y="8.1437500278155" Width="20" Height="5" />
+        <TextElement Text="摘    要" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="35.3999992688497" Y="40.1583328564962" Width="20" Height="5" />
+        <TextElement Text="摘   要：" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" BandKind="ReportHeader" X="10.3875038782756" Y="39.6291661898295" Width="20" Height="5" />
+        <TableElement X="10.000000278155" Y="50.1385416666667" Width="189.892708333333" Height="226.086458333333">
+          <Rows>
+            <Row X="10.000000278155" Y="50.1385416666667" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="科目编号" TextHAlign="Center" X="10.000000278155" Y="50.1385416666667" Width="39.9" Height="5" BoldFont="true" TextColor="black" />
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="科目全名" TextHAlign="Center" X="49.900000278155" Y="50.1385416666667" Width="39.9" Height="5" BoldFont="true" TextColor="black" />
+                <Cell OrigWidth="41.0364583333333" OrigHeight="5" Text="金额" TextHAlign="Center" X="89.800000278155" Y="50.1385416666667" Width="41.0364583333333" Height="5" BoldFont="true" TextColor="black" />
+                <Cell OrigWidth="69.05625" OrigHeight="5" Text="行摘要" TextHAlign="Center" X="130.836458611488" Y="50.1385416666667" Width="69.05625" Height="5" BoldFont="true" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10.000000278155" Y="55.1385416666667" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="科目编号" FieldKind="Detail" TextHAlign="Center" X="10.000000278155" Y="55.1385416666667" Width="39.9" Height="5" />
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="科目全名" FieldKind="Detail" TextHAlign="Center" X="49.900000278155" Y="55.1385416666667" Width="39.9" Height="5" />
+                <Cell OrigWidth="41.0364583333333" OrigHeight="5" Text="金额" FieldKind="Detail" TextHAlign="Center" X="89.800000278155" Y="55.1385416666667" Width="41.0364583333333" Height="5" />
+                <Cell OrigWidth="69.05625" OrigHeight="5" Text="行摘要" FieldKind="Detail" TextHAlign="Center" X="130.836458611488" Y="55.1385416666667" Width="69.05625" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10.000000278155" Y="60.1385416666667" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="合计" TextHAlign="Center" X="10.000000278155" Y="60.1385416666667" Width="39.9" Height="5" TextColor="black" />
+                <Cell OrigWidth="39.9" OrigHeight="5" Text="" TextHAlign="Center" X="49.900000278155" Y="60.1385416666667" Width="39.9" Height="5" TextColor="black" />
+                <Cell OrigWidth="41.0364583333333" OrigHeight="5" Text="金额" FieldKind="ToCurPageSum" TextHAlign="Center" X="89.800000278155" Y="60.1385416666667" Width="41.0364583333333" Height="5" TextColor="black" />
+                <Cell OrigWidth="69.05625" OrigHeight="5" Text="" TextHAlign="Center" X="130.836458611488" Y="60.1385416666667" Width="69.05625" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="27.9135416666667" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="47.8895833333333" Height="229.086458333333" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10.2645836114883" Y="30.8479172229767" Width="189.628124721845" Height="239.057291285197">
+          <Rows>
+            <Row X="10.2645836114883" Y="30.8479172229767" Width="189.628124721845" Height="5">
+              <Cells>
+                <Cell OrigWidth="22.940624721845" OrigHeight="5" Text="单据编号" TextHAlign="Center" WordWrap="true" X="10.2645836114883" Y="30.8479172229767" Width="22.940624721845" Height="5" BoldFont="true" />
+                <Cell OrigWidth="23.2833333333333" OrigHeight="5" Text="日期" TextHAlign="Center" WordWrap="true" X="33.2052083333333" Y="30.8479172229767" Width="23.2833333333333" Height="5" BoldFont="true" />
+                <Cell OrigWidth="25.1354166666666" OrigHeight="5" Text="摘要" TextHAlign="Center" WordWrap="true" X="56.4885416666666" Y="30.8479172229767" Width="25.1354166666666" Height="5" BoldFont="true" />
+                <Cell OrigWidth="26.9875" OrigHeight="5" Text="费用总额" TextHAlign="Center" WordWrap="true" X="81.6239583333332" Y="30.8479172229767" Width="26.9875" Height="5" BoldFont="true" />
+                <Cell OrigWidth="20.1083333333333" OrigHeight="5" Text="未结算额" TextHAlign="Center" WordWrap="true" X="108.611458333333" Y="30.8479172229767" Width="20.1083333333333" Height="5" BoldFont="true" />
+                <Cell OrigWidth="25.4" OrigHeight="5" Text="本次结算额" TextHAlign="Center" WordWrap="true" X="128.719791666667" Y="30.8479172229767" Width="25.4" Height="5" BoldFont="true" />
+                <Cell OrigWidth="45.7729166666666" OrigHeight="5" Text="余额" TextHAlign="Center" WordWrap="true" X="154.119791666667" Y="30.8479172229767" Width="45.7729166666666" Height="5" BoldFont="true" />
+              </Cells>
+            </Row>
+            <Row X="10.2645836114883" Y="35.8479172229767" Width="189.628124721845" Height="5.03020777702329">
+              <Cells>
+                <Cell OrigWidth="22.940624721845" OrigHeight="5.03020777702329" Text="单据编号" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="10.2645836114883" Y="35.8479172229767" Width="22.940624721845" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="23.2833333333333" OrigHeight="5.03020777702329" Text="日期" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="33.2052083333333" Y="35.8479172229767" Width="23.2833333333333" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="25.1354166666666" OrigHeight="5.03020777702329" Text="摘要" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="56.4885416666666" Y="35.8479172229767" Width="25.1354166666666" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="26.9875" OrigHeight="5.03020777702329" Text="费用总额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="81.6239583333332" Y="35.8479172229767" Width="26.9875" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="20.1083333333333" OrigHeight="5.03020777702329" Text="未结算额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="108.611458333333" Y="35.8479172229767" Width="20.1083333333333" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="25.4" OrigHeight="5.03020777702329" Text="本次结算额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="128.719791666667" Y="35.8479172229767" Width="25.4" Height="5.03020777702329" TextColor="black" />
+                <Cell OrigWidth="45.7729166666666" OrigHeight="5.03020777702329" Text="余额" FieldKind="Detail" TextHAlign="Center" WordWrap="true" X="154.119791666667" Y="35.8479172229767" Width="45.7729166666666" Height="5.03020777702329" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10.2645836114883" Y="40.878125" Width="189.628124721845" Height="5">
+              <Cells>
+                <Cell OrigWidth="46.2239580551784" OrigHeight="5" Text="合计" TextHAlign="Center" WordWrap="true" X="10.2645836114883" Y="40.878125" Width="46.2239580551784" Height="5" TextColor="black" />
+                <Cell OrigWidth="25.1354166666666" OrigHeight="5" Text="" TextHAlign="Center" WordWrap="true" X="56.4885416666667" Y="40.878125" Width="25.1354166666666" Height="5" TextColor="black" />
+                <Cell OrigWidth="26.9875" OrigHeight="5" Text="费用总额" FieldKind="ToCurPageSum" TextHAlign="Center" WordWrap="true" X="81.6239583333333" Y="40.878125" Width="26.9875" Height="5" TextColor="black" />
+                <Cell OrigWidth="20.1083333333333" OrigHeight="5" Text="未结算额" FieldKind="ToCurPageSum" TextHAlign="Center" WordWrap="true" X="108.611458333333" Y="40.878125" Width="20.1083333333333" Height="5" TextColor="black" />
+                <Cell OrigWidth="25.4" OrigHeight="5" Text="本次结算额" FieldKind="ToCurPageSum" TextHAlign="Center" WordWrap="true" X="128.719791666667" Y="40.878125" Width="25.4" Height="5" TextColor="black" />
+                <Cell OrigWidth="45.7729166666666" OrigHeight="5" Text="余额" FieldKind="ToCurPageSum" TextHAlign="Center" WordWrap="true" X="154.119791666667" Y="40.878125" Width="45.7729166666666" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10.2645836114883" Y="45.878125" Width="189.628124721845" Height="5">
+              <Cells>
+                <Cell OrigWidth="143.855208055178" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="10.2645836114883" Y="45.878125" Width="143.855208055178" Height="5" TextColor="black" />
+                <Cell OrigWidth="20.9020833333333" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="154.119791666666" Y="45.878125" Width="20.9020833333333" Height="5" TextColor="black" />
+                <Cell OrigWidth="24.8708333333333" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="175.021875" Y="45.878125" Width="24.8708333333333" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+            <Row X="10.2645836114883" Y="50.878125" Width="189.628124721845" Height="5">
+              <Cells>
+                <Cell OrigWidth="143.855208055178" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="10.2645836114883" Y="50.878125" Width="143.855208055178" Height="5" TextColor="black" />
+                <Cell OrigWidth="20.9020833333333" OrigHeight="5" Text="" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="154.119791666666" Y="50.878125" Width="20.9020833333333" Height="5" TextColor="black" />
+                <Cell OrigWidth="24.8708333333333" OrigHeight="5" Text="[管家婆软件]" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" WordWrap="true" X="175.021875" Y="50.878125" Width="24.8708333333333" Height="5" TextColor="black" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band IsVisible="false" BandKind="ReportHeader" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="19.84375" Height="250.692708333333" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band BandKind="ReportFooter" Y="270.404166666667" Height="5.93438237508133" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" ContinuousPrintPages="true" />
+  <ExpressionFields />
+</Report>

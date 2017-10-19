@@ -1,0 +1,72 @@
+<Report MaxRowCount="0">
+  <Pages>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="9.06458721160889" Y="20.0812496344248" Width="191.070830790202" Height="10.000000278155" FontSize="20" BoldFont="true" />
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band BandKind="ReportHeader" Y="19.84375" Height="20" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="39.6875" Height="237" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+    <Page Width="210" Height="297">
+      <OrderFields />
+      <Elements>
+        <TableElement X="10.000000278155" Y="30.31875055631" Width="189.892708333333" Height="245.466670735677">
+          <Rows>
+            <Row X="10.000000278155" Y="30.31875055631" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="33.259375" OrigHeight="5" Text="配套存货编号" WordWrap="true" X="10.000000278155" Y="30.31875055631" Width="33.259375" Height="5" />
+                <Cell OrigWidth="34.13125" OrigHeight="5" Text="配套存货全名" WordWrap="true" X="43.259375278155" Y="30.31875055631" Width="34.13125" Height="5" />
+                <Cell OrigWidth="24.0770833333333" OrigHeight="5" Text="配套数量" WordWrap="true" X="77.390625278155" Y="30.31875055631" Width="24.0770833333333" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="可用数量" WordWrap="true" X="101.467708611488" Y="30.31875055631" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="25.4" OrigHeight="5" Text="剩余数量" WordWrap="true" X="122.634375278155" Y="30.31875055631" Width="25.4" Height="5" />
+                <Cell OrigWidth="25.1354166666667" OrigHeight="5" Text="确认数量" WordWrap="true" X="148.034375278155" Y="30.31875055631" Width="25.1354166666667" Height="5" />
+                <Cell OrigWidth="26.7229166666667" OrigHeight="5" Text="确认金额" WordWrap="true" X="173.169791944822" Y="30.31875055631" Width="26.7229166666667" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10.000000278155" Y="35.31875055631" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="33.259375" OrigHeight="5" Text="配套存货编号" FieldKind="Detail" WordWrap="true" X="10.000000278155" Y="35.31875055631" Width="33.259375" Height="5" />
+                <Cell OrigWidth="34.13125" OrigHeight="5" Text="配套存货全名" FieldKind="Detail" WordWrap="true" X="43.259375278155" Y="35.31875055631" Width="34.13125" Height="5" />
+                <Cell OrigWidth="24.0770833333333" OrigHeight="5" Text="配套数量" FieldKind="Detail" WordWrap="true" X="77.390625278155" Y="35.31875055631" Width="24.0770833333333" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="可用数量" FieldKind="Detail" WordWrap="true" X="101.467708611488" Y="35.31875055631" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="25.4" OrigHeight="5" Text="剩余数量" FieldKind="Detail" WordWrap="true" X="122.634375278155" Y="35.31875055631" Width="25.4" Height="5" />
+                <Cell OrigWidth="25.1354166666667" OrigHeight="5" Text="确认数量" FieldKind="Detail" WordWrap="true" X="148.034375278155" Y="35.31875055631" Width="25.1354166666667" Height="5" />
+                <Cell OrigWidth="26.7229166666667" OrigHeight="5" Text="金额" FieldKind="Detail" WordWrap="true" X="173.169791944822" Y="35.31875055631" Width="26.7229166666667" Height="5" />
+              </Cells>
+            </Row>
+            <Row X="10.000000278155" Y="40.31875055631" Width="189.892708333333" Height="5">
+              <Cells>
+                <Cell OrigWidth="91.4677083333333" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="10.000000278155" Y="40.31875055631" Width="91.4677083333333" Height="5" />
+                <Cell OrigWidth="21.1666666666667" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="101.467708611488" Y="40.31875055631" Width="21.1666666666667" Height="5" />
+                <Cell OrigWidth="25.4" OrigHeight="5" Text="" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="122.634375278155" Y="40.31875055631" Width="25.4" Height="5" />
+                <Cell OrigWidth="25.1354166666667" OrigHeight="5" Text="打印时间：" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" WordWrap="true" X="148.034375278155" Y="40.31875055631" Width="25.1354166666667" Height="5" />
+                <Cell OrigWidth="26.7229166666667" OrigHeight="5" Text="日期" FieldKind="System" LeftLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Right" WordWrap="true" X="173.169791944822" Y="40.31875055631" Width="26.7229166666667" Height="5" />
+              </Cells>
+            </Row>
+          </Rows>
+        </TableElement>
+      </Elements>
+      <Bands>
+        <Band IsVisible="false" />
+        <Band BandKind="PageHeader" Height="20" />
+        <Band IsVisible="false" BandKind="ReportHeader" />
+        <Band IsVisible="false" BandKind="PageBodyHeader" />
+        <Band BandKind="PageDetail" Y="19.84375" Height="257" />
+        <Band IsVisible="false" BandKind="PageBodyFooter" />
+        <Band IsVisible="false" BandKind="ReportFooter" />
+        <Band BandKind="PageFooter" Y="276.754166666667" Height="20" />
+      </Bands>
+    </Page>
+  </Pages>
+  <PageSettings MarginLeft="10" MarginTop="20" MarginBottom="20" PageWidth="210" PageHeight="297" ContinuousPrintPages="true" />
+  <ExpressionFields />
+</Report>
