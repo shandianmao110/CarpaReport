@@ -3,7 +3,7 @@
     <Page Width="210" Height="297">
       <OrderFields />
       <Elements>
-        <TextElement Text="表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="9.59375387827555" Y="25.0000001907349" Width="189.964583714803" Height="10.000000278155" FontSize="25" BoldFont="true" />
+        <TextElement Text="打印表名" FieldKind="Master" LeftLineVisible="false" TopLineVisible="false" RightLineVisible="false" BottomLineVisible="false" TextHAlign="Center" BandKind="ReportHeader" X="9.59375387827555" Y="25.0000001907349" Width="189.964583714803" Height="10.000000278155" FontSize="25" BoldFont="true" />
         <TableElement X="10" Y="40" Width="189.892708333333" Height="235.735417175293">
           <Rows>
             <Row X="10" Y="40" Width="137.054166666667" Height="5">
